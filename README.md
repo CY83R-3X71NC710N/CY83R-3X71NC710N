@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm CY83R-3X71NC710N</h1>
 
-<h3 align="center">Founder and Chief Hacking Officer of ShadowSecurity nonprofit organization. Specialist in stealth, deception, intrusion and magic.</h3>
+<h3 align="center">Founder and Chief Hacking Officer of ShadowSecurity nonprofit organization. Specialist in stealth, deception, intrusion, and magic.</h3>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/CY83R-3X71NC710N/CY83R-3X71NC710N/main/Painting.jpg" /> </p>
 
