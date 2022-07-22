@@ -38,7 +38,7 @@ When I logged into my GitHub profile this morning as usual, I noticed that I had
 [<img src="https://github.com/CY83R-3X71NC710N/CY83R-3X71NC710N/blob/main/Gift3.png?raw=true" width="100"/>](https://super-memo.com/index.html)  
 (The gift of true learning)
 
-[<img src="https://github.com/CY83R-3X71NC710N/CY83R-3X71NC710N/blob/main/Gift4.png?raw=true" width="100"/>](https://www.getstoic.com/)  
+[<img src="https://github.com/CY83R-3X71NC710N/CY83R-3X71NC710N/blob/main/Gift4.jpg?raw=true" width="100"/>](https://www.getstoic.com/)  
 (The gift of controlled emotion)
 
 # Free DJ Music Creation:
