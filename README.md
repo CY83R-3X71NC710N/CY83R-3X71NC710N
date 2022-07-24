@@ -20,13 +20,13 @@
 
 The most sophisticated computer science toolkit and penetration toolkit available right now, in my view, is ShadowSecurity. To learn more, see the link below.
 
-[<img src="https://raw.githubusercontent.com/CY83R-3X71NC710N/CY83R-3X71NC710N/main/ShadowSecurity-Circle.png" width="100"/>](https://github.com/CY83R-3X71NC710N/Field-Manual)
+[<img src="https://raw.githubusercontent.com/CY83R-3X71NC710N/CY83R-3X71NC710N/main/ShadowSecurity-Circle.png" width="100"/>](https://github.com/ShadowSecurityOfficial)
 
 # **Manual Guide**:
 
 The ultimate list of field manuals to use when Ethical Hacking and offline.
 
-[<img src="https://github.com/CY83R-3X71NC710N/Field-Manual/raw/main/Manual.png" width="100"/>](https://github.com/ShadowSecurityOfficial)
+[<img src="https://github.com/CY83R-3X71NC710N/Field-Manual/raw/main/Manual.png" width="100"/>](https://github.com/CY83R-3X71NC710N/Field-Manual)
 
 <h3 align="left">Languages, Tools, Projects, and Websites that help me:</h3>
 <p align="left">
