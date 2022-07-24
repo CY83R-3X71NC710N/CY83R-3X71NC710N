@@ -10,7 +10,7 @@
 
 - ㊙️ I’m currently working on [ShadowSecuritySuite](https://github.com/ShadowSecurityOfficial)
 
-- 👨‍💻 I’m currently a master in **Cybersecurity, Computer Science, Ethical Hacking, Penetration Testing, Vulnerability Engineering, Red Teaming, Blue Teaming, Purple Teaming, CTO Operations, CISO Operations, CSO Operations, CHO Operations, Engineering, Networking, Programming, Operating Systems, Cloud, Storage, Productivity, Teaching and informing, Social Engineering, Business, Learning, English, Science, Mathematics, Technology, AI/ML/Deep-Learning, Devops, CI/CD, Git, Archiving, Music Production, Game Development, Photography, Editing, Writing, DJing, Privacy, Security, Anonymity, VPS, VPN, and Psychology.**
+- 👨‍💻 I’m currently a master in **Cybersecurity, Computer Science, Ethical Hacking, Penetration Testing, Vulnerability Engineering, Red Teaming, Blue Teaming, Purple Teaming, CTO Operations, CISO Operations, CSO Operations, CHO Operations, Business/Finance, Engineering, Networking, Programming, Operating Systems, Cloud, Storage, Productivity, Teaching and informing, Social Engineering, Business, Learning, English, Science, Mathematics, Technology, AI/ML/Deep-Learning, Devops, CI/CD, Git, Archiving, Music Production, Game Development, Photography, Editing, Writing, DJing, Privacy, Security, Anonymity, VPS, VPN, and Psychology.**
 
 - 📄 I am currently getting started learning **Japanese culture, Japanese language, the art of fighting in Japan, and many more things related to technology**
 
