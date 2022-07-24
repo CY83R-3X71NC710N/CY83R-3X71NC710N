@@ -16,6 +16,8 @@
 
 - 👨‍🎓 I plan to go to university for **Undergraduate Computer Science and Masters in Cybersecurity with a minor in Psychology**
 
+- 👨‍💼 I plan to go to work **Anywhere that has a mission I support, great team, and pays well. Currently, I am interested in Apple but I am sure I will find other companies I'm interested in just as much.**
+
 # **ShadowSecuritySuite**:
 
 The most sophisticated computer science toolkit and penetration toolkit available right now, in my view, is ShadowSecurity. To learn more, see the link below.
