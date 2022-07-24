@@ -14,7 +14,7 @@
 
 - 📄 I am currently getting started learning **Japanese culture, Japanese language, the art of fighting in Japan, and many more things related to technology**
 
-- 👨‍🎓 I plan to go to college for **Undergraduate Computer Science and Masters in Cybersecurity with a minor in Psychology**
+- 👨‍🎓 I plan to go to university for **Undergraduate Computer Science and Masters in Cybersecurity with a minor in Psychology**
 
 # **ShadowSecuritySuite**:
 
