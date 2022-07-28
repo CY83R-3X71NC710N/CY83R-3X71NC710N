@@ -26,5 +26,6 @@ https://photofunia.com/
 https://pfpmaker.com/laser-eyes
 https://avatar.pho.to/
 https://anon.to/
+https://removal.ai/upload/ (AI Background Removal)
 ```
 
