@@ -24,7 +24,7 @@ The most sophisticated computer science toolkit and penetration toolkit availabl
 
 [<img src="https://raw.githubusercontent.com/CY83R-3X71NC710N/CY83R-3X71NC710N/main/ShadowSecurity-Circle.png" width="100"/>](https://github.com/ShadowSecurityOfficial)
 
-# **Manual Guide**:
+# **Field Manual Guide**:
 
 The ultimate list of field manuals to use when Ethical Hacking and offline.
 
