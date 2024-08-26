@@ -10,8 +10,10 @@
 
 ---
 
-<h3 align="center">Founder and Chief Hacking Officer of ShadowStrike organization. Specialist in stealth, deception, and intrusion.</h3>
+<h3 align="center">Founder and Chief Hacking Officer of ShadowStrike © organization. Specialist in stealth, deception, and intrusion.</h3>
 
+ShadowStrike
+Copyright © 2024 CY83R-3X71NC710N. All rights reserved.
 ---
 
 # Github Rating:
