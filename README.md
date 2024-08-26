@@ -6,6 +6,10 @@
 
 ---
 
+<p align="center"> <img src="./Github_Banner.png" /> </p>
+
+---
+
 <h3 align="center">Founder and Chief Hacking Officer of ShadowStrike organization. Specialist in stealth, deception, and intrusion.</h3>
 
 ---
