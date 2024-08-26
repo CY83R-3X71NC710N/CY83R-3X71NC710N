@@ -10,11 +10,12 @@
 
 ---
 
-<h3 style="text-align: center;">
-  Founder and Chief Hacking Officer of <i>© ShadowStrike</i> Organization<br>
-  Specialist in Stealth, Deception, and Intrusion
-</h3>
-
+<div style="text-align: center;">
+  <h3>
+    Founder and Chief Hacking Officer of <i>© ShadowStrike</i> Organization<br>
+    Specialist in Stealth, Deception, and Intrusion
+  </h3>
+</div>
 
 ---
 
