@@ -6,6 +6,10 @@
 
 ---
 
+<h3 align="center">Founder and Chief Hacking Officer of ShadowSecurity. Specialist in stealth, deception, and intrusion.</h3>
+
+---
+
 # Github Rating:
 
 <p align="center">
