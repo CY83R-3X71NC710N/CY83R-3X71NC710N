@@ -37,10 +37,6 @@
 
 ---
 
-# ShadowStrike
-
-**Copyright © 2024 CY83R-3X71NC710N. All rights reserved.**
-
 ---
 
 ## GitHub Profile
@@ -48,3 +44,9 @@
 **Copyright © 2024 CY83R-3X71NC710N on GitHub. All rights reserved.**
 
 ---
+
+# ShadowStrike
+
+**Copyright © 2024 CY83R-3X71NC710N. All rights reserved.**
+
+
