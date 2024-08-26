@@ -24,10 +24,6 @@
 
 ---
 
-# ShadowStrike
-
-**Copyright © 2024 CY83R-3X71NC710N. All rights reserved.**
-
 # Trophies:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -36,3 +32,8 @@
 </p>
 
 ---
+# Copyright
+---
+# ShadowStrike
+
+**Copyright © 2024 CY83R-3X71NC710N. All rights reserved.**
