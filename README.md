@@ -6,7 +6,6 @@
 
 ---
 
----
 # Github Rating:
 
 <p align="center">
