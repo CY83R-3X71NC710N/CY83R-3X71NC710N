@@ -12,8 +12,6 @@
 
 <h3 align="center">Founder and Chief Hacking Officer of ShadowStrike © organization. Specialist in stealth, deception, and intrusion.</h3>
 
-ShadowStrike
-Copyright © 2024 CY83R-3X71NC710N. All rights reserved.
 ---
 
 # Github Rating:
@@ -25,6 +23,11 @@ Copyright © 2024 CY83R-3X71NC710N. All rights reserved.
 </p>
 
 ---
+
+# ShadowStrike
+
+**Copyright © 2024 CY83R-3X71NC710N. All rights reserved.**
+
 # Trophies:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
