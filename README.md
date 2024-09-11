@@ -48,9 +48,9 @@
 ---
 
 ## ShadowStrike
-<i>On Github</i>
 
 **Copyright © 2024 CY83R-3X71NC710N. All rights reserved.**
 
+<i>On Github</i>
 ---
 
