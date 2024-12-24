@@ -7,9 +7,10 @@
 ---
 
 <p align="center">
-  <strong>Founder and Chief Hacking Officer of <i>© ShadowStrike</i> Organization</strong><br>
-  Specialist in Stealth, Deception, and Intrusion
+  <span style="color: darkred;"><strong>© ShadowStrike Organization</strong></span><br>
+  <span style="color: darkred;">Master of Shadows, Deception, and Intrusion</span>
 </p>
+
 
 
 ---
