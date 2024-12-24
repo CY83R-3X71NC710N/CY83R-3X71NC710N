@@ -6,8 +6,6 @@
 
 ---
 
-<p align="center"> <img src="./Github_Banner.png" /> </p>
-
 ---
 
 <p align="center">
