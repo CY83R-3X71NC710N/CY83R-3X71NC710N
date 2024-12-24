@@ -7,11 +7,9 @@
 ---
 
 <p align="center">
-  <span style="color: darkred;"><strong>© ShadowStrike Organization</strong></span><br>
-  <span style="color: darkred;">Specialist in Stealth, Deception, and Intrusion</span>
+  <strong style="color: darkred;">Master of Shadows</strong><br>
+  <strong style="color: darkred;">Specialist in Stealth, Deception, and Intrusion</strong>
 </p>
-
-
 
 ---
 
