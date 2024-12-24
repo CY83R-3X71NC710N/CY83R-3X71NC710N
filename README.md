@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Professional Cyberwarfare Operative</strong><br>
-  <strong>Expert in Stealth, Deception, and Intrusion</strong>
+  <strong>Specialist in Stealth, Deception, and Intrusion</strong>
 </p>
 
 ---
