@@ -6,8 +6,6 @@
 
 ---
 
----
-
 <p align="center">
   <strong>Founder and Chief Hacking Officer of <i>© ShadowStrike</i> Organization</strong><br>
   Specialist in Stealth, Deception, and Intrusion
