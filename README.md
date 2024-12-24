@@ -7,8 +7,8 @@
 ---
 
 <p align="center">
-  <strong style="color: darkred;">Master of Shadows</strong><br>
-  <strong style="color: darkred;">Specialist in Stealth, Deception, and Intrusion</strong>
+  <strong>Professional Cyberwarfare Operative</strong><br>
+  <strong>Expert in Stealth, Deception, and Intrusion</strong>
 </p>
 
 ---
