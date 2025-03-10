@@ -8,14 +8,14 @@
 
 <p align="center">
   <strong style="font-size: 1.6em;">Professional Cyberwarfare Operative</strong><br>
-  <em>Specialist in Stealth, Deception, and Intrusion</em><br>
-
-  <hr style="width: 50%;">
-
-  <strong>
-    <span style="font-size: 1.1em; color: cyan;">Currently Exploring AI & Quantum Computing</span>
-  </strong>
+  <em>Specialist in Stealth, Deception, and Intrusion</em>
 </p>
+
+<p align="center">
+  <hr style="width: 50%;">
+  <strong>Currently Exploring AI & Quantum Computing</strong>
+</p>
+
 
 ---
 
