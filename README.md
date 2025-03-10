@@ -9,8 +9,12 @@
 <p align="center">
   <strong style="font-size: 1.6em;">Professional Cyberwarfare Operative</strong><br>
   <em style="font-size: 1.2em;">Specialist in Stealth, Deception, and Intrusion</em><br>
-  <hr style="width: 80px; border: 1px solid #555; margin: 12px auto;">
-  <span style="font-size: 1.1em; color: #777;">Currently exploring AI & Quantum Computing</span>
+  
+  <hr style="width: 100px; border: 1px solid #555; margin: 15px auto;">
+  
+  <span style="font-size: 1.1em; color: #0ff; font-weight: bold; letter-spacing: 1px; text-transform: uppercase; display: inline-block; background: rgba(0, 255, 255, 0.1); padding: 5px 10px; border-radius: 5px;">
+    Currently Exploring AI & Quantum Computing
+  </span>
 </p>
 
 ---
