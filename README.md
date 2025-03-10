@@ -9,6 +9,7 @@
 <p align="center">
   <strong>Professional Cyberwarfare Operative</strong><br>
   <strong>Specialist in Stealth, Deception, and Intrusion</strong>
+  Currently interested in: AI and Quantumn Computing
 </p>
 
 ---
