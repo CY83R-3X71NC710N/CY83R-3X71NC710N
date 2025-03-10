@@ -12,7 +12,10 @@
 </p>
 
 <p align="center">
-  <hr style="width: 50%;">
+  <hr width="50%">
+</p>
+
+<p align="center">
   <strong>Currently Exploring AI & Quantum Computing</strong>
 </p>
 
