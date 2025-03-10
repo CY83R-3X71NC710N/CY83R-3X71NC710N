@@ -7,9 +7,13 @@
 ---
 
 <p align="center">
-  <strong style="font-size: 1.5em;">Professional Cyberwarfare Operative</strong><br>
-  <em>Specialist in Stealth, Deception, and Intrusion</em><br>
-  <span style="font-size: 1.1em; color: #888;">Currently exploring AI & Quantum Computing</span>
+  <strong style="font-size: 1.6em; border-bottom: 2px solid #555; padding-bottom: 5px;">
+    Professional Cyberwarfare Operative
+  </strong><br>
+  <span style="display: inline-block; width: 50px; height: 2px; background-color: #555; margin: 8px 0;"></span><br>
+  <em style="font-size: 1.2em;">Specialist in Stealth, Deception, and Intrusion</em><br>
+  <span style="display: inline-block; width: 30px; height: 2px; background-color: #888; margin: 8px 0;"></span><br>
+  <span style="font-size: 1.1em; color: #777;">Currently exploring AI & Quantum Computing</span>
 </p>
 
 ---
