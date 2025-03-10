@@ -7,9 +7,9 @@
 ---
 
 <p align="center">
-  <strong>Professional Cyberwarfare Operative</strong><br>
-  <strong>Specialist in Stealth, Deception, and Intrusion</strong>
-  Currently interested in: AI and Quantumn Computing
+  <strong style="font-size: 1.5em;">Professional Cyberwarfare Operative</strong><br>
+  <em>Specialist in Stealth, Deception, and Intrusion</em><br>
+  <span style="font-size: 1.1em; color: #888;">Currently exploring AI & Quantum Computing</span>
 </p>
 
 ---
