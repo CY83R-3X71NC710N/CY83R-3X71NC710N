@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  -----
+  <hr style="width: 90%; border: 1px solid #555;">
 </p>
 
 <p align="center">
