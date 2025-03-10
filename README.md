@@ -7,13 +7,11 @@
 ---
 
 <p align="center">
-  <strong style="font-size: 1.6em;">Professional Cyberwarfare Operative</strong>
-  <hr style="width: 60px; border: 1px solid #555; margin: 10px auto;">
-  <em style="font-size: 1.2em;">Specialist in Stealth, Deception, and Intrusion</em>
-  <hr style="width: 40px; border: 1px solid #777; margin: 10px auto;">
+  <strong style="font-size: 1.6em;">Professional Cyberwarfare Operative</strong><br>
+  <em style="font-size: 1.2em;">Specialist in Stealth, Deception, and Intrusion</em><br>
+  <hr style="width: 80px; border: 1px solid #555; margin: 12px auto;">
   <span style="font-size: 1.1em; color: #777;">Currently exploring AI & Quantum Computing</span>
 </p>
-
 
 ---
 
