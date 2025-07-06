@@ -37,9 +37,16 @@
 </p>
 
 <p align="center">
-  <em>
-    This is the OS for professionals, through the security of Fedora, Tiling of the Pop!_OS Cosmic, Performance Enhancements and base of AthenaOS, specialization of toolset minimizing bloat, Blackarch Docker Container, ARM64 support with VMware Fusion, ShadowStrike AthenaOS is engineered from the ground-up for learning Cybersecurity, Special Forces Hacking Operations, and Professional Penetration Testing. 
-  </em>
+  **ShadowStrike AthenaOS** is an operating system designed for professionals, combining:
+  
+  - The security of **Fedora**
+  - The tiling features of **Pop!_OS Cosmic**
+  - Performance enhancements and the base of **AthenaOS**
+  - A specialized toolset that minimizes bloat
+  - A **Blackarch Docker container**
+  - ARM64 support with **VMware Fusion**
+  
+  It is engineered from the ground up for learning cybersecurity, special forces hacking operations, and professional penetration testing.
 </p>
 
 ---
