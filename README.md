@@ -39,17 +39,8 @@
   </a>
 </p>
 
-<p align="center">
-  <table style="width: 320px; margin: 0 auto;">
-    <tr>
-      <td style="width: 150px; text-align: left;">
-        <img src="Logo-Upscaled.png" alt="ShadowStrike Logo" width="150" />
-      </td>
-      <td style="width: 150px; text-align: right;">
-        <img src="AthenaOS-Spy.png" alt="AthenaOS Spy Logo" width="150" />
-      </td>
-    </tr>
-  </table>
+<p align="left">
+  <img src="Logo-Upscaled.png" alt="ShadowStrike Logo" width="150" />
 </p>
 
 <p align="center">
