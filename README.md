@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <strong>Currently Exploring AI Warfare, AI Consciousness, and Quantum Computing</strong>
+  <strong>Currently Exploring AI Warfare, AI Consciousness, AGI, and Quantum Computing</strong>
 </p>
 
 ---
