@@ -40,9 +40,9 @@
 </p>
 
 
-<h1 align="center"> 
+<p align="center"> 
   <img src="Logo-Upscaled.png" alt="ShadowStrike Logo" width="150"
-</h1>
+</p>
 
 <p style="text-align: center; margin-top: 1em;">
   <em>
@@ -50,8 +50,8 @@
   </em>
 </p>
 
-<h1 align="center"> 
+<p align="center"> 
   <img src="AthenaOS-Spy.png" alt="ShadowStrike Logo" width="150"
-</h1>
+</p>
 
 
