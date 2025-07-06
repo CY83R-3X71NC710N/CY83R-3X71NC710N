@@ -40,11 +40,10 @@
 </p>
 
 <p align="center">
-  <img src="AthenaOS-Spy.png" alt="AthenaOS Spy Logo" width="150" height="auto" />
-</p>
 
-<p align="center">
-  <img src="Logo-Upscaled.png" alt="AthenaOS Spy Logo" width="150" height="auto" />
+| <img src="Logo-Upscaled.png" alt="ShadowStrike Logo" width="150" height="auto" align="left"> | <img src="AthenaOS-Spy.png" alt="AthenaOS Spy Logo" width="150" height="auto" align="right"> |
+|:-----------------------------------------------------------|:------------------------------------------------------------:|
+
 </p>
 
 <p align="center">
