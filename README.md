@@ -39,13 +39,11 @@
   </a>
 </p>
 
-<p align="left">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="Logo-Upscaled.png" alt="ShadowStrike Logo" width="150" />
-</p>
-
-<p align="right">
   <img src="AthenaOS-Spy.png" alt="ShadowStrike Logo" width="150" />
-</p>
+</div>
+
 
 
 <p align="center">
