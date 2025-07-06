@@ -50,7 +50,7 @@
   - Strong **Wireguard VPN** Setup [**C.E. - Restricted**]
   - **Custom** Fish + OhMyPOSH Setup
   - **Custom** Ghostty setup + Custom glsl Shaders
-  - **Custom** iTerm2 setup
+  - **Custom** iTerm2 setup + Exclusive Background
   
   It is engineered from the ground up for learning **cybersecurity**, **special forces hacking operations**, and **professional penetration testing**.
 </p>
