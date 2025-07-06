@@ -47,7 +47,7 @@
   - ARM64 support with **VMware Fusion**
   - **MidnightStrikeOPS** Theme
   
-  It is engineered from the ground up for learning cybersecurity, special forces hacking operations, and professional penetration testing.
+  It is engineered from the ground up for learning **cybersecurity**, **special forces hacking operations**, and **professional penetration testing**.
 </p>
 
 ---
