@@ -54,7 +54,7 @@
 
 <p align="center">
   <em>
-    Commanding the charge on AthenaOS’s arm64 Fedora variant, forged specifically for macOS VMware Fusion. Simultaneously, masterminding the relentless evolution of the ShadowStrike Ideology and AthenaOS Theme. On a mission to conquer Pop!_OS Cosmic’s port to VMware Fusion, while pushing Wayland support to its limits in Apple Silicon virtualization. Breaking barriers, rewriting the rules.
+    Leading the charge on AthenaOS’s arm64 Fedora variant, engineered exclusively for macOS VMware Fusion. Driving the relentless evolution of the ShadowStrike Ideology and AthenaOS Theme with precision and vision. On a relentless mission to master Pop!_OS Cosmic’s port to VMware Fusion, while pushing Wayland support to its absolute limits on Apple Silicon virtualization. Shattering boundaries, redefining the future. Breaking barriers, rewriting the rules.
   </em>
 </p>
 
