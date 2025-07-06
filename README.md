@@ -46,8 +46,8 @@
   - **Blackarch Docker container**
   - ARM64 support with **VMware Fusion**
   - **MidnightStrikeOPS** Theme
-  - **Custom Hacking AI Toolkit and Mentor** [A.B.] - Restricted
-  - Strong **Wireguard VPN** Setup [A.B.] - Restricted
+  - **Custom Hacking AI Toolkit and Mentor** <em>[A.B.] - Restricted</em>
+  - Strong **Wireguard VPN** Setup <em>[A.B.] - Restricted</em>
   
   It is engineered from the ground up for learning **cybersecurity**, **special forces hacking operations**, and **professional penetration testing**.
 </p>
