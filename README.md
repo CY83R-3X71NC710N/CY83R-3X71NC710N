@@ -38,6 +38,7 @@
 
 **ShadowStrike AthenaOS is an operating system designed for professionals, combining:**
 <p align="center">
+  
   - The security of **Fedora**
   - The tiling features of **Pop!_OS Cosmic**
   - Performance enhancements and the base of **AthenaOS**
