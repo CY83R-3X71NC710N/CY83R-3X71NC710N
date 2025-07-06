@@ -44,7 +44,7 @@
   - **Performance** enhancements and the base of **AthenaOS**
   - **Specialized toolset** that minimizes bloat
   - **Blackarch Docker container**
-  - **ARM64** support with **VMware Fusion**
+  - **ARM64** support with **VMware Fusion vmdk**
   - **MidnightStrikeOPS** Theme
   - **Custom Hacking AI Toolkit and Mentor** [**C.E. - Restricted**]
   - Strong **Wireguard VPN** Setup [**C.E. - Restricted**]
