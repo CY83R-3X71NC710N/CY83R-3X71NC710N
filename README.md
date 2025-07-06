@@ -22,8 +22,12 @@
 ---
 
 <p align="center">
-  <img src="Logo-Upscaled.png" alt="ShadowStrike Logo" width="150" style="margin-right: 20px;">
-  <img src="AthenaOS-Spy.png" alt="AthenaOS Spy Logo" width="150" style="margin-left: 20px;">
+  <a href="https://github.com/ShadowStrikeHQ" target="_blank" rel="noopener noreferrer">
+    <img src="Logo-Upscaled.png" alt="ShadowStrike Logo" width="150" style="margin-right: 20px;">
+  </a>
+  <a href="https://gitlab.com/athenaos" target="_blank" rel="noopener noreferrer">
+    <img src="AthenaOS-Spy.png" alt="AthenaOS Spy Logo" width="150" style="margin-left: 20px;">
+  </a>
 </p>
 
 ---
