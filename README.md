@@ -36,6 +36,11 @@
    <strong>Spearheading</strong> the charge on <strong>AthenaOS’s ARM64 Fedora variant</strong>, for <strong>Special Forces</strong> hacking, meticulously engineered for <strong>macOS VMware Fusion</strong>. Driving the relentless evolution of the <strong>ShadowStrike AthenaOS Theme</strong> <i>a shadow-forged, midnight hacking OS spy theme, cloaked in stealth and precision.</i> On a mission to flawlessly port <strong>Pop!_OS Cosmic</strong> to VMware Fusion, while pushing <strong>Wayland support</strong> to its absolute limits on <strong>Apple Silicon virtualization</strong>. <strong>Breaking barriers</strong>, <em>shattering boundaries</em>, and <strong>redefining the future</strong> of virtualization.
 </p>
 
+<p align="center">
+  <em>
+    This is the OS for professionals, through the security of Fedora, Tiling of the Pop!_OS Cosmic, Performance Enhancements and base of AthenaOS, specialization of toolset minimizing bloat, ARM64 support with VMware Fusion, ShadowStrike AthenaOS is engineered from the ground-up for learning Cybersecurity and Special Forces Hacking Operations. 
+  </em>
+</p>
 ---
 
 <h1 align="center">Trophies</h1>
