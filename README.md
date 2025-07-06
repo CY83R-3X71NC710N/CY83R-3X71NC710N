@@ -40,12 +40,9 @@
 </p>
 
 
-<p align="center"> 
-  <img src="Logo-Upscaled.png" alt="ShadowStrike Logo" width="150"
-</p>
-
-<p align="center"> 
-  <img src="AthenaOS-Spy.png" alt="ShadowStrike Logo" width="150"
+<p align="center">
+  <img src="Logo-Upscaled.png" alt="ShadowStrike Logo" width="150" style="margin-right: 20px;">
+  <img src="AthenaOS-Spy.png" alt="AthenaOS Spy Logo" width="150" style="margin-left: 20px;">
 </p>
 
 <p style="text-align: center; margin-top: 1em;">
