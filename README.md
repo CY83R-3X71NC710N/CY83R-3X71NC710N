@@ -54,7 +54,7 @@
 
 <p align="center">
   <em>
-    Leading the charge on <strong>AthenaOS’s arm64 Fedora variant</strong>, meticulously engineered for <strong>macOS VMware Fusion</strong>. Driving the relentless evolution of the <strong>ShadowStrike Ideology</strong> and <strong>AthenaOS Theme</strong> with <em>unwavering precision and vision</em>. On a mission to flawlessly port <strong>Pop!_OS Cosmic</strong> to VMware Fusion, while pushing <strong>Wayland support</strong> to its absolute limits on <strong>Apple Silicon virtualization</strong>. <strong>Breaking barriers</strong>, <em>shattering boundaries</em>, and <strong>redefining the future</strong> of virtualization.
+    Leading the charge on <strong>AthenaOS’s ARM64 Fedora variant</strong>, meticulously engineered for <strong>macOS VMware Fusion</strong>. Driving the relentless evolution of the <strong>ShadowStrike Ideology</strong> and <strong>AthenaOS Theme</strong> with <em>unwavering precision and vision</em>. On a mission to flawlessly port <strong>Pop!_OS Cosmic</strong> to VMware Fusion, while pushing <strong>Wayland support</strong> to its absolute limits on <strong>Apple Silicon virtualization</strong>. <strong>Breaking barriers</strong>, <em>shattering boundaries</em>, and <strong>redefining the future</strong> of virtualization.
   </em>
 </p>
 
