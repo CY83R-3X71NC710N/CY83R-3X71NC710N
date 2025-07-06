@@ -42,8 +42,8 @@
   - The security of **Fedora**
   - The tiling features of **Pop!_OS Cosmic**
   - Performance enhancements and the base of **AthenaOS**
-  - A specialized toolset that minimizes bloat
-  - A **Blackarch Docker container**
+  - Specialized toolset that minimizes bloat
+  - **Blackarch Docker container**
   - ARM64 support with **VMware Fusion**
   - **MidnightStrikeOPS** Theme
   
