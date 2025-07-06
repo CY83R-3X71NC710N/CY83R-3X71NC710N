@@ -40,10 +40,16 @@
 </p>
 
 <p align="center">
-
-| <img src="Logo-Upscaled.png" alt="ShadowStrike Logo" width="150" height="auto" align="left"> | <img src="AthenaOS-Spy.png" alt="AthenaOS Spy Logo" width="150" height="auto" align="right"> |
-|:-----------------------------------------------------------|:------------------------------------------------------------:|
-
+  <table style="margin: 0 auto; width: 320px;">
+    <tr>
+      <td style="width: 150px; text-align: left;">
+        <img src="Logo-Upscaled.png" alt="ShadowStrike Logo" width="150" height="auto" />
+      </td>
+      <td style="width: 150px; text-align: right;">
+        <img src="AthenaOS-Spy.png" alt="AthenaOS Spy Logo" width="150" height="auto" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
@@ -51,5 +57,6 @@
     Currently spearheading the development of the AthenaOS arm64 Fedora variant tailored for macOS VMware Fusion. In parallel, leading the maintenance and evolution of the ShadowStrike Theme and Ideology for AthenaOS. Focused on porting Pop!_OS Cosmic to VMware Fusion while rigorously testing Wayland support within VMware Fusion environments to push the boundaries of virtualization on Apple Silicon.
   </em>
 </p>
+
 
 
