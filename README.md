@@ -39,4 +39,4 @@
   </a>
 </p>
 
-<img src="AthenaOS-Spy.png" alt="AthenaOS Spy Logo">
+<img src="AthenaOS-Spy.png" alt="AthenaOS Spy Logo" width="150" height="auto">
