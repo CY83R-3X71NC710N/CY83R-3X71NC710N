@@ -44,6 +44,10 @@
 </p>
 
 <p align="center">
+  <img src="Logo-Upscaled.png" alt="AthenaOS Spy Logo" width="150" height="auto" />
+</p>
+
+<p align="center">
   <em>
     Currently spearheading the development of the AthenaOS arm64 Fedora variant tailored for macOS VMware Fusion. In parallel, leading the maintenance and evolution of the ShadowStrike Theme and Ideology for AthenaOS. Focused on porting Pop!_OS Cosmic to VMware Fusion while rigorously testing Wayland support within VMware Fusion environments to push the boundaries of virtualization on Apple Silicon.
   </em>
