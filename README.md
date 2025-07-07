@@ -76,7 +76,7 @@
 - **VMware Fusion:** is included, ready for all virtualization needs.
 - **Password Manager + Authenticator Built-in**
 - **VPN Built-in**
-- **Highly Advanced Audio Setup:** For listening while hacking, this audio setup combines my advanced audio knowledge from DJing, Music Production, and Playing the Guitar into producing the best sounds possible on the OS. (YTM + MyNoise + Brain.fm)
+- **Highly Advanced Audio Setup:** For listening while hacking, this audio setup combines my advanced audio knowledge from DJing, Music Production, and Playing the Guitar into producing the best sounds possible on the OS. (YTM + MyNoise + Brain.fm + SomaFM)
 - **Custom Cursor** + **Custom Cursor Click Effect**
 - **Productivity Toolset**
 - **Microsoft Office** installed by default
