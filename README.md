@@ -80,6 +80,7 @@
 - **Productivity Toolset**
 - **Microsoft Office** installed by default
 - **OperaGX + OperaAir**
+- **DuckDuckGo** browser enhancements and search engine
 
 ---
 
