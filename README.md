@@ -64,6 +64,7 @@
   - Even **More**
 
 # MacOS Exclusives
+- **Homebrew Setup**
 - **Custom-Tuned iTerm2:** Bespoke terminal environment built for speed and efficiency.
 - **Exclusive Wallpapers:** Includes a custom background for the terminal and the *Flux Model* for unlimited, AI-generated macOS wallpapers daily.
 - **Optimized Stage Manager:** Pre-configured setup for a seamless and productive workflow.
