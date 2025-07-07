@@ -67,7 +67,7 @@
 - **Homebrew Setup**
 - **Custom-Tuned iTerm2:** Bespoke terminal environment built for speed and efficiency.
 - **iTerm2 ImageCat custom gif loader**
-- **Exclusive Wallpapers:** Includes a custom background for the terminal and the *GPTImage Model* for unlimited, AI-generated macOS wallpapers daily.
+- **Exclusive Wallpapers:** Includes a custom background for the terminal and the *Flux Model* for unlimited, AI-generated macOS wallpapers daily.
 - **Optimized Stage Manager:** Pre-configured setup for a seamless and productive workflow.
 - **Proactive Lockdown Mode:** System-wide integration for maximum security posture.
 - **SIP Enabled and all macOS security enhancements enabled**
