@@ -77,7 +77,7 @@
 - **Highly Advanced Audio Setup:** For listening while hacking.
 
 
-  <u>**ShadowStrike AthenaOS Edition**</u> is as much a **ideology** as an **operating system.** It is engineered from the ground up for **learning cybersecurity**, **special forces hacking operations**, and **professional penetration testing**. <u>**ShadowStrike AthenaOS Edition**</u> takes the best parts from all major hacking operating systems and combines them into one, following Apple Design philosophies combined with all my knowledge of Cybersecurity creating the ultimate operating system with a stable, bug-free experience. 
+<u>**ShadowStrike AthenaOS Edition**</u> is as much a **ideology** as an **operating system.** It is engineered from the ground up for **learning cybersecurity**, **special forces hacking operations**, and **professional penetration testing**. <u>**ShadowStrike AthenaOS Edition**</u> takes the best parts from all major hacking operating systems and combines them into one, following Apple Design philosophies combined with all my knowledge of Cybersecurity creating the ultimate operating system with a stable, bug-free experience. 
 </p>
 
 ---
