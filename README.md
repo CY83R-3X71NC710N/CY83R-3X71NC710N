@@ -81,6 +81,7 @@
 - **Microsoft Office** installed by default
 - **OperaGX + OperaAir**
 - **DuckDuckGo** browser enhancements and search engine
+- Calibre Installed + Audiblez (https://github.com/santinic/audiblez)
 
 ---
 
