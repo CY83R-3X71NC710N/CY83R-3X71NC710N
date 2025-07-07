@@ -63,7 +63,21 @@
   - **Hacking Menus** Based On Roles
   - Even **More**
 
-  It is engineered from the ground up for **learning cybersecurity**, **special forces hacking operations**, and **professional penetration testing**.
+# MacOS Exclusives
+- **Custom-Tuned iTerm2:** A bespoke terminal environment built for speed and efficiency.
+- **Exclusive Wallpapers:** Includes a custom background for the terminal and the *Flux Model* for unlimited, AI-generated macOS wallpapers daily.
+- **Optimized Stage Manager:** A pre-configured setup for a seamless and productive workflow.
+- **Proactive Lockdown Mode:** System-wide integration for maximum security posture.
+- **Automatic Security Script:** A custom script that continuously enforces privacy and security best practices.
+- **Dual-Layer Firewall:** Combines the default macOS firewall with the power of Little Snitch for comprehensive traffic control combined with a Berkeley Packet Filter, Browser VPN, Strong Wireguard Configuration, and DNS-Over-HTTPS
+- **AI-Powered DNS Filtering:** A state-of-the-art DNS filter that blocks malware and malicious sites before they can even load.
+- **Integrated Antivirus:** Core antivirus protection built into the system.
+- **Cloud Browser/Browser-Proxy:** for reducing malware
+- **VMware Fusion:** is included, ready for all virtualization needs.
+- **Highly Advanced Audio Setup:** For listening while hacking.
+
+
+  <u>**ShadowStrike AthenaOS Edition**</u> is as much a **ideology** as an **operating system.** It is engineered from the ground up for **learning cybersecurity**, **special forces hacking operations**, and **professional penetration testing**. <u>**ShadowStrike AthenaOS Edition**</u> takes the best parts from all major hacking operating systems and combines them into one, following Apple Design philosophies combined with all my knowledge of Cybersecurity creating the ultimate operating system with a stable, bug-free experience. 
 </p>
 
 ---
