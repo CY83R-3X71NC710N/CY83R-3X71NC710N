@@ -64,13 +64,13 @@
   - Even **More**
 
 # MacOS Exclusives
-- **Custom-Tuned iTerm2:** A bespoke terminal environment built for speed and efficiency.
+- **Custom-Tuned iTerm2:** Bespoke terminal environment built for speed and efficiency.
 - **Exclusive Wallpapers:** Includes a custom background for the terminal and the *Flux Model* for unlimited, AI-generated macOS wallpapers daily.
-- **Optimized Stage Manager:** A pre-configured setup for a seamless and productive workflow.
+- **Optimized Stage Manager:** Pre-configured setup for a seamless and productive workflow.
 - **Proactive Lockdown Mode:** System-wide integration for maximum security posture.
-- **Automatic Security Script:** A custom script that continuously enforces privacy and security best practices.
+- **Automatic Security Script:** Custom script that continuously enforces privacy and security best practices.
 - **Dual-Layer Firewall:** Combines the default macOS firewall with the power of Little Snitch for comprehensive traffic control combined with a Berkeley Packet Filter, Browser VPN, Strong Wireguard Configuration, and DNS-Over-HTTPS
-- **AI-Powered DNS Filtering:** A state-of-the-art DNS filter that blocks malware and malicious sites before they can even load.
+- **AI-Powered DNS Filtering:** State-of-the-art DNS filter that blocks malware and malicious sites before they can even load.
 - **Integrated Antivirus:** Core antivirus protection built into the system.
 - **Cloud Browser/Browser-Proxy:** for reducing malware
 - **VMware Fusion:** is included, ready for all virtualization needs.
