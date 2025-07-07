@@ -68,6 +68,7 @@
 - **Exclusive Wallpapers:** Includes a custom background for the terminal and the *Flux Model* for unlimited, AI-generated macOS wallpapers daily.
 - **Optimized Stage Manager:** Pre-configured setup for a seamless and productive workflow.
 - **Proactive Lockdown Mode:** System-wide integration for maximum security posture.
+- **SIP Enabled and all macOS security enhancements enabled**
 - **Automatic Security Script:** Custom script that continuously enforces privacy and security best practices.
 - **Dual-Layer Firewall:** Combines the default macOS firewall with the power of Little Snitch for comprehensive traffic control combined with a Berkeley Packet Filter Monitoring, Stealth Mode, Incoming Traffic Blocked, Browser VPN, Strong Wireguard Configuration, and DNS-Over-HTTPS
 - **AI-Powered DNS Filtering:** State-Of-The-Art DNS filter that blocks malware and malicious sites before they can even load.
