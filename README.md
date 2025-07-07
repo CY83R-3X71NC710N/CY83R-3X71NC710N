@@ -55,6 +55,7 @@
   - **Custom** Ghostty setup + Custom glsl Shaders
   - **Custom** iTerm2 setup + Exclusive Terminal Background + Stage Manager + VMware Fusion + Unlimited Free macOS Daily Wallpaper Generator (Flux Model)
   - Signal + Telegram **Encrypted Communication Networks** Built-In
+  - **Microsoft Office** installed by default
   - **Additional Defensive Toolset**
   
   It is engineered from the ground up for learning **cybersecurity**, **special forces hacking operations**, and **professional penetration testing**.
