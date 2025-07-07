@@ -91,6 +91,7 @@
 - **Raycast + Apple Intelligence**
 - **Time Machine Backups**
 - **File Vault Encryption**
+- **ice**: macOS top bar theme
 
 ---
 
