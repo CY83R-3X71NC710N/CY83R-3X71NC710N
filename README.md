@@ -74,7 +74,7 @@
 - **Integrated Antivirus:** Core antivirus protection built into the system.
 - **Cloud Browser/Browser-Proxy:** for reducing malware
 - **VMware Fusion:** is included, ready for all virtualization needs.
-- **Highly Advanced Audio Setup:** For listening while hacking, this audio setup combines my advanced audio knowledge from DJing and Music Production, and Playing the Guitar into producing the best sounds on the OS.
+- **Highly Advanced Audio Setup:** For listening while hacking, this audio setup combines my advanced audio knowledge from DJing and Music Production, and Playing the Guitar into producing the best sounds possible on the OS.
 
 ---
 
