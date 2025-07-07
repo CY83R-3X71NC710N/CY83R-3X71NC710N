@@ -69,7 +69,7 @@
 - **Optimized Stage Manager:** Pre-configured setup for a seamless and productive workflow.
 - **Proactive Lockdown Mode:** System-wide integration for maximum security posture.
 - **Automatic Security Script:** Custom script that continuously enforces privacy and security best practices.
-- **Dual-Layer Firewall:** Combines the default macOS firewall with the power of Little Snitch for comprehensive traffic control combined with a Berkeley Packet Filter Monitoring, Browser VPN, Strong Wireguard Configuration, and DNS-Over-HTTPS
+- **Dual-Layer Firewall:** Combines the default macOS firewall with the power of Little Snitch for comprehensive traffic control combined with a Berkeley Packet Filter Monitoring, Stealth Mode, Incoming Traffic Blocked, Browser VPN, Strong Wireguard Configuration, and DNS-Over-HTTPS
 - **AI-Powered DNS Filtering:** State-of-the-art DNS filter that blocks malware and malicious sites before they can even load.
 - **Integrated Antivirus:** Core antivirus protection built into the system.
 - **Cloud Browser/Browser-Proxy:** for reducing malware
