@@ -47,6 +47,7 @@
   - **ARM64** support with **VMware Fusion**
   - Snapshots of **VMware Fusion**
   - Delivered in the form of a optimized **VMDK** file for VMware Fusion.
+  - VMDK has storage **shrinking/expansion** capabilites.
   - **MidnightStrikeOPS** Theme
   - **Custom Hacking AI Toolkit and Mentor** [**C.E. - Restricted**]
   - Strong **Wireguard VPN** Setup [**C.E. - Restricted**]
