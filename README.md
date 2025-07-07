@@ -75,11 +75,12 @@
 - **Cloud Browser/Browser-Proxy:** for reducing malware
 - **VMware Fusion:** is included, ready for all virtualization needs.
 - **Highly Advanced Audio Setup:** For listening while hacking, this audio setup combines my advanced audio knowledge from DJing and music production into producing the best sounds on the OS.
-</p>
+
 ---
 
-<u>**ShadowStrike AthenaOS Edition**</u> is as much a **ideology** as an **operating system.** It is engineered from the ground up for **learning cybersecurity**, **special forces hacking operations**, and **professional penetration testing**. <u>**ShadowStrike AthenaOS Edition**</u> takes the best parts from all major hacking operating systems and combines them into one, following Apple Design philosophies combined with all my knowledge of Cybersecurity creating the ultimate operating system with a stable, bug-free experience. 
+<u>ShadowStrike AthenaOS Edition</u> is as much a **ideology** as an **operating system.** It is engineered from the ground up for **learning cybersecurity**, **special forces hacking operations**, and **professional penetration testing**. <u>**ShadowStrike AthenaOS Edition**</u> takes the best parts from all major hacking operating systems and combines them into one, following Apple Design philosophies combined with all my knowledge of Cybersecurity creating the ultimate operating system with a stable, bug-free experience. 
 
+</p>
 
 ---
 <h1 align="center">Trophies</h1>
