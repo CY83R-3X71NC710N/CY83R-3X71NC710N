@@ -53,7 +53,7 @@
   - **Custom** Fish + OhMyPOSH Setup
   - **Custom** Ghostty setup + Custom glsl Shaders
   - **Custom** iTerm2 setup + Exclusive Background
-  - **Telegram + Signal Encrypted Communication** Networks Built-In
+  - Signal + Telegram **Encrypted Communication Networks** Built-In
   - **Additional Defensive Toolset**
   
   It is engineered from the ground up for learning **cybersecurity**, **special forces hacking operations**, and **professional penetration testing**.
