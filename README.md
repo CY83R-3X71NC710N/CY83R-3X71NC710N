@@ -83,6 +83,7 @@
 - **OperaGX + OperaAir**
 - **DuckDuckGo** browser enhancements and search engine
 - **Calibre Installed + Audiblez** (https://github.com/santinic/audiblez)
+- Google Collab + Kaggle + HuggingFace (AI Websites) Bookmarked
 
 ---
 
