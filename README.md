@@ -53,7 +53,7 @@
   - Strong **Wireguard VPN** Setup [**C.E. - Restricted**]
   - **Custom** Fish + OhMyPOSH Setup + Fastfetch
   - **Custom** Ghostty setup + Custom glsl Shaders
-  - **Custom** iTerm2 setup + Exclusive Terminal Background + Stage Manager + Lockdown Mode + Automatic Privacy/Security Script + LS Firewall & Default Firewall + VMware Fusion + Unlimited Free macOS Daily Wallpaper Generator (Flux Model)
+  - **Custom** iTerm2 setup + Exclusive Terminal Background + Stage Manager + Lockdown Mode + Automatic Privacy/Security Script + LS Firewall & Default Firewall + Antivirus + VMware Fusion + Unlimited Free macOS Daily Wallpaper Generator (Flux Model)
   - Signal + Telegram **Encrypted Communication Networks** Built-In
   - **Microsoft Office** installed by default
   - **Additional Defensive Toolset**
