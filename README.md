@@ -61,7 +61,7 @@
   - **NIST Feed**
   - **HTB Toolkit** for Learning
   - **Hacking Menus** Based On Roles
-  - Even **more**
+  - Even **More**
 
   It is engineered from the ground up for **learning cybersecurity**, **special forces hacking operations**, and **professional penetration testing**.
 </p>
