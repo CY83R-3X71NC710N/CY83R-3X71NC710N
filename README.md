@@ -55,7 +55,6 @@
   - **Custom** Ghostty setup + Custom glsl Shaders
   - **Custom** iTerm2 setup + Exclusive Terminal Background + Stage Manager + Lockdown Mode + Automatic Privacy/Security Script + LS Firewall & Default Firewall + State-Of-The-Art AI DNS Malware Filter + Antivirus + VMware Fusion + Unlimited Free macOS Daily Wallpaper Generator (Flux Model)
   - Signal + Telegram **Encrypted Communication Networks** Built-In
-  - **Microsoft Office** installed by default
   - **Additional Defensive Toolset**
   - Many different **GNU/Linux Kernels** to choose from
   - **NIST Feed**
@@ -77,6 +76,10 @@
 - **Password Manager + Authenticator Built-in**
 - **VPN Built-in**
 - **Highly Advanced Audio Setup:** For listening while hacking, this audio setup combines my advanced audio knowledge from DJing and Music Production, and Playing the Guitar into producing the best sounds possible on the OS.
+- **Custom Cursor** + **Custom Cursor Click Effect**
+- **Productivity Toolset**
+- **Microsoft Office** installed by default
+- **OperaGX + OperaAir**
 
 ---
 
