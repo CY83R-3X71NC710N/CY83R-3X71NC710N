@@ -49,11 +49,11 @@
   - Delivered in the form of a optimized **VMDK** file for VMware Fusion
   - VMDK has storage **shrinking/expansion** capabilites
   - **MidnightStrikeOPS** Theme
-  - **Custom Hacking AI Toolkit and Mentor** [**C.E. - Restricted**]
+  - **Custom Hacking Gemini 2.5 Pro State-Of-The-Art AI Toolkit and Mentor** [**C.E. - Restricted**]
   - Strong **Wireguard VPN** Setup [**C.E. - Restricted**]
   - **Custom** Fish + OhMyPOSH Setup
   - **Custom** Ghostty setup + Custom glsl Shaders
-  - **Custom** iTerm2 setup + Exclusive Background
+  - **Custom** iTerm2 setup + Exclusive Terminal Background + Stage Manager + VMware Fusion + Unlimited Free macOS Daily Wallpaper Generator (Flux Model)
   - Signal + Telegram **Encrypted Communication Networks** Built-In
   - **Additional Defensive Toolset**
   
