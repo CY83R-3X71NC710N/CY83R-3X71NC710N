@@ -86,7 +86,7 @@
 - **DuckDuckGo** browser enhancements and search engine
 - **Calibre Installed + Readest + Audiblez** (https://github.com/santinic/audiblez)
 - **Google AI Studio + Google Collab + Kaggle + HuggingFace** (AI Websites) Bookmarked
-- Raycast + Apple Intelligence
+- **Raycast + Apple Intelligence**
 
 ---
 
