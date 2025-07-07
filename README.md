@@ -58,8 +58,9 @@
   - **Microsoft Office** installed by default
   - **Additional Defensive Toolset**
   - Many different **GNU/Linux Kernels** to choose from
-  - NIST Feed
-  - HTB Toolkit for Learning
+  - **NIST Feed**
+  - **HTB Toolkit for Learning**
+  - **Hacking Menus Based On Roles**
   
   It is engineered from the ground up for **learning cybersecurity**, **special forces hacking operations**, and **professional penetration testing**.
 </p>
