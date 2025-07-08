@@ -93,6 +93,7 @@
 - **File Vault Encryption**
 - **ice**: macOS top bar theme
 - **pipx** support
+- **Gemini-CLI**
 
 ---
 
