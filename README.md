@@ -84,7 +84,7 @@
 - **Custom Cursor** + **Custom Cursor Click Effect**
 - **Productivity Toolset**
 - **Microsoft Office** installed by default
-- **OperaGX + OperaAir**
+- **OperaGX + OperaAir + Brave Browser (For PWA)**
 - **DuckDuckGo** browser enhancements and search engine
 - **Calibre Installed + Readest + Audiblez** (https://github.com/santinic/audiblez)
 - **Google AI Studio + Google Collab + Kaggle + HuggingFace** (AI Websites) Bookmarked
