@@ -46,7 +46,7 @@
 **My status is validated by:**
 - **Industry Recognition:** Member of the **GIAC Advisory Board** (Elite Guidance Community of Top Scorers from SANS) & **GitHub Developer Program**.
 - **SANS Certifications:** GSEC & GFACT.
-- **NSA Codebreaker Program (2023-2024):** As the sole participant from my high school, which I independently registered in the program, I ranked #1 and achieved Level 7, surpassing the performance of numerous collegiate teams.
+- **NSA Codebreaker Program (2023-2024):** As a self-registered solo competitor, achieved Level 7, this is a benchmark few collegiate teams reach, therefore placing me at the top of my school's leaderboard and ahead of many universities with more people.
 - **Cyberstart America (2022-2024):** Top 1% (I had the most points possible in the CTF), earning $12,000 in scholarships & National Cyber Scholar with Honors.
 - **Unique Academic Distinction:** One of the only students to receive both the Business and Computer Science awards out of every student at a ~1000-student high school. Received a plaque award and was congratulated in front of the entire school.
 - **Computer Science & Development Mastery:** Achieved 100% (A+) grades for the entire semester in both Web Design and Video Game Development; was a top-performing student in AP Computer Science Principles (A- grade, AP Score of 4).
