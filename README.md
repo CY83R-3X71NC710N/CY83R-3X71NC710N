@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <strong style="font-size: 1.6em;">Professional Cyberwarfare Operative</strong><br>
+  <strong style="font-size: 1.6em;">Cyber Operations Specialist</strong><br>
   <em>Specialist in Stealth, Deception, and Intrusion</em>
 </p>
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <strong>Currently Exploring AI Warfare, AI Consciousness, AGI, and Quantum Computing</strong>
+  <strong>Currently Exploring AI Warfare, AI Consciousness, ASI, AGI, and Quantum Computing</strong>
 </p>
 
 ---
