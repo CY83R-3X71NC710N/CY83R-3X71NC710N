@@ -86,6 +86,7 @@
 * **Web** Frontend and Backend Knowledge, UI/UX.
 * **Strategic & Cognitive Architecture:** Expert Strategist, metacognition, productivity optimization (Niche of AI-assisted day management, Gamified Productivity, and using advanced configuration profiles as well as specialized tools [e.g., Apple Configurator, Cold Turkey, Opal]), additionally comprehensive research.
 * **Information & Data Management:** Strong foundation in microsoft office, Google Suite, mathematics, digital archiving, US Government (As well as other countries), psychology, business, and effective personal finance management.
+* **Feedly** AI Cybersecurity RSS News Feed Knowledge
 * **Professional Social Communication** with English Language Focus (Know some French), and Academic Leadership Knowledge.
 
 ---
