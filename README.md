@@ -40,9 +40,10 @@
 ---
 
 <p align="center">
-  <strong>At 17</strong>, with <strong>four years of relentless experience forged</strong> in Cybersecurity, I <strong>dominate Cyber Operations, AI-driven Penetration Testing, OSINT, AI/human exploitation, cross-platform OS development, and autonomous AI programming.</strong> My status is validated by:
+  <strong>At 17</strong>, with <strong>four years of relentless experience forged</strong> in Cybersecurity, I <strong>dominate Cyber Operations, AI-driven Penetration Testing, OSINT, AI/human exploitation, cross-platform OS development, and autonomous AI programming.</strong> 
 </p>
 
+**My status is validated by:**
 - **Industry Recognition:** Member of the **GIAC Advisory Board** (Elite Guidance Community of Top Scorers from SANS) & **GitHub Developer Program**.
 - **SANS Certifications:** GSEC & GFACT.
 - **NSA Codebreaker Program (2023-2024):** Ranked #1 in high school achieving Level 7 in the Program.
