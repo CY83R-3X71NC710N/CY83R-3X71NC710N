@@ -60,7 +60,7 @@
 
 <h2 align="center">Origin Story</h2>
 
-My journey into technology began with a spark of mischievous curiosity in the third grade. My focus was supposed to be on my assignments, but more often than not, my curiosity won that battle. I’d be completely captivated by what our classroom computers could do, figuring out little tricks and shortcuts. The real fun, however, came from sharing those discoveries with my classmates. That feeling of being the person who could make the technology sing, even when I wasn't supposed to had planted a seed for everything that would follow.
+My journey into technology began with a spark of mischievous curiosity in the third grade. My focus was supposed to be on my assignments, but more often than not, my curiosity won that battle. I’d be completely captivated by what our classroom computers could do, figuring out little tricks and shortcuts. The real fun, however, came from sharing those discoveries with my classmates. That feeling of being the person who could make the technology sing even when I wasn't supposed to, had planted a seed for everything that would follow.
 
 By sixth grade, that seed had grown into a full-blown community. I founded my school's first "ethical hacking" club, complete with a brand, a set of rules, and even a unique greeting that being a quick fist tapped into a straight hand. I’m sure our teachers thought it was a secret plan for a playground brawl, but for us, it was the symbol of a thriving community built on camaraderie and a love for tech.
 
