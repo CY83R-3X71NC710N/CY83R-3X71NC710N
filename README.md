@@ -31,41 +31,36 @@
 </p>
 
 ---
-
-<p align="center">
-  **Driving the innovation** behind **AthenaOS’s ARM64 Fedora variant** &mdash; meticulously engineered for **demanding security operations** within high-performance virtualized environments. I am focused on the relentless evolution of the **ShadowStrike AthenaOS Theme**: <i>a shadow-forged, midnight security OS designed for surgical precision and unparalleled operational stealth.</i> Our mission includes flawlessly porting **Pop!_OS Cosmic** to advanced virtualization platforms, while **pushing Wayland’s capabilities to their absolute limits** on **Apple Silicon virtualization**. This isn't just development; it's about **overcoming complex challenges**, **redefining technical paradigms**, and **shaping the future** of secure computing.
-</p>
+**Driving the innovation** behind **AthenaOS’s ARM64 Fedora variant** — meticulously engineered for **demanding security operations** within high-performance virtualized environments. I'm relentlessly **advancing** the **ShadowStrike AthenaOS Theme**: *a shadow-forged, midnight security OS designed for surgical precision and unparalleled operational stealth.* Our mission includes flawlessly porting **Pop!_OS Cosmic** to advanced virtualization platforms, while **pushing Wayland’s capabilities to their absolute limits** on **Apple Silicon virtualization**. This isn't just development; it's about **mastering complex challenges**, **redefining technical paradigms**, and **shaping the future** of secure computing.
 
 <ins>**ShadowStrike AthenaOS Edition**</ins> **is a formidable operating system designed for serious cybersecurity professionals, seamlessly integrating:**
-<p align="center">
-  - The **inherent security** of **Fedora**
-  - The **efficient tiling** capabilities of **Pop!_OS Cosmic**
-  - **Optimized performance** built upon **AthenaOS’s** robust foundation
-  - A **Strategic Toolset Selector** for mission-critical, role-based deployments
-  - **Blackarch Docker container** integration for expanded capabilities
-  - **ARM64** architecture support across powerful virtualization platforms
-  - Instantaneous snapshotting for rapid deployment and recovery
-  - Delivered as an optimized **VMDK** engineered for dynamic storage scaling
-  - The **MidnightStrikeOPS** Theme: Designed for Immersive Operational Focus
-  - **Custom Hacking Gemini 2.5 Pro State-Of-The-Art AI Toolkit and Mentor** [**C.E. - Restricted Access**]
-  - **Robust Wireguard VPN** Setup [**C.E. - Restricted Access**]
-  - **Finely tuned** Fish + OhMyPOSH Setup + Fastfetch
-  - **Advanced** Ghostty setup + BigBlueTerm Nerd Fonts Mono + figlet shadow setup + lolcat + Custom glsl Shaders
-  - Encrypted Communication Networks **Hardened for Operational Security** (e.g., Signal + Telegram)
-  - An **Extensive Defensive Arsenal** to Counter Evolving Threats
-  - A comprehensive array of **GNU/Linux Kernels** for maximum adaptability
-  - **NIST Feed** for critical threat intelligence
-  - **HTB Toolkit** for Practical Skill Development & Scenario Simulation
-  - **Adaptive Role-Based Tooling Menus** for Efficient Operations
-  - **GHIDRA** (Official NSA Reverse Engineering Toolset) & More &mdash; A Complete Operational Suite
+
+-   The **inherent security** of **Fedora**
+-   The **efficient tiling** capabilities of **Pop!_OS Cosmic**
+-   **Optimized performance** built upon **AthenaOS’s** robust foundation
+-   A **Strategic Toolset Selector** for mission-critical, role-based deployments
+-   **Blackarch Docker container** integration for expanded capabilities
+-   **ARM64** architecture support across powerful virtualization platforms
+-   Instantaneous snapshotting for rapid deployment and recovery
+-   Delivered as an optimized **VMDK** engineered for dynamic storage scaling
+-   The **MidnightStrikeOPS** Theme: Designed for Immersive Operational Focus
+-   **Custom Hacking Gemini 2.5 Pro State-Of-The-Art AI Toolkit and Mentor** [**C.E. - Restricted Access**]
+-   **Robust Wireguard VPN** Setup [**C.E. - Restricted Access**]
+-   **Finely tuned** Fish + OhMyPOSH Setup + Fastfetch
+-   **Advanced** Ghostty setup + BigBlueTerm Nerd Fonts Mono + figlet shadow setup + lolcat + Custom glsl Shaders
+-   Encrypted Communication Networks **Hardened for Operational Security** (e.g., Signal + Telegram)
+-   An **Extensive Defensive Arsenal** to Counter Evolving Threats
+-   A comprehensive array of **GNU/Linux Kernels** for maximum adaptability
+-   **NIST Feed** for critical threat intelligence
+-   **HTB Toolkit** for Practical Skill Development & Scenario Simulation
+-   **Adaptive Role-Based Tooling Menus** for Efficient Operations
+-   **GHIDRA** (Official NSA Reverse Engineering Toolset) & More — A Complete Operational Suite
 
 ---
 
-<ins>**ShadowStrike AthenaOS Edition**</ins> transcends a mere operating system; it is an **advanced platform** &mdash; meticulously engineered from the ground up for **mastering cybersecurity disciplines**, enabling **specialized security missions**, and conducting **rigorous penetration testing**. <ins>**ShadowStrike AthenaOS Edition**</ins> synthesizes the strengths of leading offensive and defensive platforms, driven by a deep understanding of cybersecurity to deliver a **stable, high-performance, and dependable operational environment.**
+<ins>**ShadowStrike AthenaOS Edition**</ins> transcends a mere operating system; it is an **advanced platform** — meticulously engineered from the ground up for **mastering cybersecurity disciplines**, enabling **specialized security missions**, and conducting **rigorous penetration testing**. <ins>**ShadowStrike AthenaOS Edition**</ins> synthesizes the strengths of leading offensive and defensive platforms, driven by a deep understanding of cybersecurity to deliver a **stable, high-performance, and dependable operational environment.**
 
 *ShadowStrike AthenaOS Edition is designed exclusively for legal, ethical, and authorized operations. Adherence to all applicable laws and regulations is paramount.*
-
-</p>
 
 ---
 <h1 align="center">Trophies</h1>
