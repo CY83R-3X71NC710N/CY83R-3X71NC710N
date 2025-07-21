@@ -112,7 +112,7 @@ Hearing that word was like someone had finally given a name to a language I'd be
 
 ---
 
-## Ķ̵̜̬̥̻̻̹̻̭̯͓͕̜͙͙̜͚̦̅͟͟͝ë̶̡̧̧͇̺̯̯͎̠͈̱͙͉̪̞́̀͌͑̒̀̆̅̈́͘͜͟͝ͅͅy̸̧̙͙̦͎͍͍͉̗̪̹̮͖͈̞͍̗̦͚̻͂̊͛̋͑̃͐̄̀͒̋̎̎̓̏͒̽͒̑̌͋́̾̾̃̋͂̚͟͝ͅͅ ̶̨̨͙͓̭͍̳͙̼͔͈̫̗̭̝͉̝̜̫͚̩̠̼̳͇̑͋͆͊͂͊̓͒̌͛͒̈́̋̽̇̎̓̌̾̄͂̌̑̓͟͝͝͠͝ͅͅͅÉ̸̢̛͓̹̦̞͎͚̥̰̫̖͉͍͎̖̫̹͔̂͆̐̋̉̐̍̀͑͜͟͝ͅx̶̛̭̖̮̜̝̑̌̅̅͑̎͆͌̀̂̾̐͗̇̒̆͝p̸̨̡͎͓͕̲̥͓̦͉̹̖̳͈̼̮̫̞̪͋͆̌͆͒̊̈̅̓̃̈́̃̑̐̓͛̊̅͒͒̄̉̿͛̿͛̑̄͜͝ë̸̡̡̥̯͈̲̟̪̣̭̙́̏̑̓̈̾̀͜r̴̨̮̗͈͈̫͆̈́̎́̈́̓̎̈́̓̾̿̄̇̄͋̓̈́̕̕͘͘͝͠͠͝ͅt̶̡̢̨̛̻̯̤̱̬͖͖̳͓͖͍̖̼̺̠͉̫̪̫͖͚̣͍͇͇̠͔̽̈́̔̾̂͂̑̽͐̌͌́̈̅̎͆́̐̓͒͂̔̈́̆̇͌̚ĩ̴̥̰͔̼̯̟͔͓̰̮̥̍̋͐̍̊̓̅͊̽͑ś̵̡̼̟̭̼̫̬̩̭̗͚̹̯͈͍̘̬̭̙̩̘̮̝̽́̽̏̂̑̀́̈́̔̍̓͜͝ė̸̩̦̣̱̻̳̦̪̦̈́̏̄͋̓̿͘͟ͅ
+## Key-Expertise
 - **Full-Stack & AI Engineering:** Autonomous development of advanced solutions, encompassing AI programming (Expert Github Copilot Automation Knowledge + Visual Studio Code Knowledge with Plugins and Theming) and versatile coding across diverse domains.
 - **Python-Language Focus:** Studied python in-depth.
 - **Operating System Mastery:** Deep expertise in developing, hardening, and optimizing macOS, Windows, and GNU/Linux systems, including custom OS creation.
@@ -127,7 +127,7 @@ Hearing that word was like someone had finally given a name to a language I'd be
 
 ---
 
-## D̸̙̺̤̯͎͚̣̥͗̅i̴̛͚̻̤͔̳̰̮̒͗̍̓̇̿v̷̩͔͖͈͍͚̝̩̈́̔͂̈́̆̆͂̋̋ͅȩ̸̛̮̳̩̻̀̍́̋͟ͅŗ̷̡̮̫͗̏s̴̛͔̏̊̔͡ẻ̷̟͖͍̳͈͔͍͗̊̔̈̆̑̽͜͝ ̷̨͎̹͙̤̤̳̲́̈́̈̓̚͠P̶̙̭̻̊̿̃̋͛̌͊͠ų̴̡̢̯̘̣̼̱̜̇̐̇͜r̴̢̥͎̭͇͗̿͋̉̅̽̾͆̓s̸̨͈̘̪̬͛͊͛̿̈́͂͌̔͘ụ̴̢̀͂͗̂̓̈́̾́i̸̠͙͋̃͐̏t̴̩̤̪̣̬͍̩̮͓͙̂͑̊̑̐̓̓̾̚͡s̵̛͉̰̏̃
+## Diverse Pursuits
 - **Digital & Creative Arts:** Competitive Video Gamer & advanced gaming modding knowledge, Game Development Knowledge, DJing, guitar, music production, photography, photo editing, and AI Generative Arts & Imaging (including upscaling and compression).
 - **Physical & Mind Discipline:** Dedicated to martial arts, weightlifting, walking, biking, food, nutrition & cooking, mindfulness, personal care, and mastering personal fashion aesthetics.
 - **Continuous Learning:** Passionate about reading (Expert on E-book formats, AI Audiobook Knowledge, Book Appearance), psychology (specifically interrogation), philosophy, religious study, video games and movies, social dynamics, effective communication, automotive knowledge, and exploring emerging technologies (AI/AGI/ASI, Quantum Computing).
@@ -143,7 +143,7 @@ Hearing that word was like someone had finally given a name to a language I'd be
 
 ---
 
-<h1 align="center">G̷̛͊̅͆͛͘͟͝ͅỉ̴̧̳͖̖̲̭̼̭͎̞͙͊̈́̿͜ͅţ̴̧̢̬̻̟̱̮͍̾̅̅̅͐̀̽͆̑̈͛̌̎h̴̢̨̢̳̤͕͉̬̣̠̲̰͕̋̐̎̀̃͜u̸̧̢̳̼̥̥̠̱̗͚̲̗̹̳͌̀́͆̽̿̈̌b̴̢̞̖̜̲̘̹͑̄͌̓̿̎͆̒̇̋̂͑͂͟͜͟͝͡ ̷̭͈͇͕̦͍̪̱͙̩̜̺̰̆͑̾̅̍̆̅̎̍͝͡͠ͅŔ̸̦̏̃̈́̂̔̅͊̈́̀̈̐͡͡a̴̢̼͈̣̜̘̥̣̹͙̝̣͇̿͂͌̕͝͡ť̸̯͚̣͊̾̏̆͌̈́̃̌ḯ̷͙͊͊̒̆̚͝ņ̶̨̼̲̠̞̼͎̃́͗̎͗g̶̬͙͈̳̱̥̬͖̬̺̰̣̜̿͆͟</h1>
+<h1 align="center">Github Rating</h1>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=CY83R-3X71NC710N&show_icons=true&theme=radical&hide_title=false" alt="cy83r-3x71nc710n's Github Ranking">
