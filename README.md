@@ -32,8 +32,18 @@
 </p>
 
 <p align="center">
-  <strong>At 17</strong>, with <strong>four years of relentless experience forged</strong> in Cybersecurity, I <strong>dominate Cyber Operations, AI-driven Penetration Testing, OSINT, AI/human exploitation, cross-platform OS development, and autonomous AI programming.</strong> My status is validated by <strong>SANS GSEC/GFACT certifications</strong> and <strong>membership on the GIAC Advisory Board & GitHub Developer Program.</strong> My achievements are extensive: <strong>ranking #1 in the NSA Codebreaker Program (2023-2024) for my high school; securing top 1% in Cyberstart America earning $12,000 in scholarships (2022-2024), earning National Cyber Scholar with Honors; one of the only students receiving both the Business and Computer Science awards at my ~1000-student public high school; ranking in the top ~10 academically at my school; AP US Government and AP World History: both scores of five, Additionally took AP Computer Science Principals Achieving one of the top scores in the class of A- and AP Score of 4, Overall Grade of 100% A+ in both Web Design and Video Game Development for the entire semester I took them, furthermore, excelling in the FBI TEAM Program.</strong> My mission continues: <strong>advancing AI's application in penetration testing and pioneering enhanced attack strategies.</strong> I operate as a <strong>digital apex predator</strong> This is only the prologue.
+  <strong>At 17</strong>, with <strong>four years of relentless experience forged</strong> in Cybersecurity, I <strong>dominate Cyber Operations, AI-driven Penetration Testing, OSINT, AI/human exploitation, cross-platform OS development, and autonomous AI programming.</strong> My status is validated by:
 </p>
+
+- **Industry Recognition:** Member of the **GIAC Advisory Board** & **GitHub Developer Program**.
+- **SANS Certifications:** GSEC & GFACT.
+- **NSA Codebreaker Program (2023-2024):** Ranked #1 in high school.
+- **Cyberstart America (2022-2024):** Top 1%, earning $12,000 in scholarships & National Cyber Scholar with Honors.
+- **Unique Academic Distinction:** One of only a few students to receive both the Business and Computer Science awards at a ~1000-student high school.
+- **Computer Science & Development Mastery:** Achieved 100% (A+) grades for the entire semester in both Web Design and Video Game Development; was a top-performing student in AP Computer Science Principles (A- grade, AP Score of 4).
+- **AP Scholar:** Earned top scores (5 out of 5) on both the **AP US Government** and **AP World History** exams.
+- **Academic Excellence:** Consistently maintained a top ~10 academic rank.
+- **Federal Program Distinction:** Excelled in the **FBI TEAM Program**.
 
 ---
 
