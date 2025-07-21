@@ -47,6 +47,8 @@
 - **Academic Excellence:** Consistently maintained a top ~10 academic rank.
 - **Federal Program Distinction:** Excelled in the **FBI TEAM Program**.
 
+I am an Apex Predator.
+
 ---
 
 <ins>**ShadowStrike AthenaOS Edition**</ins> is a formidable operating system designed for serious cybersecurity professionals, seamlessly integrating:
