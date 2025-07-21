@@ -89,7 +89,7 @@ I am an Apex Predator.
 ---
 
 <p align="center">
-  *ShadowStrike AthenaOS Edition is designed exclusively for legal, ethical, and authorized operations. Adherence to all applicable laws and regulations is paramount.*
+  <em>ShadowStrike AthenaOS Edition is designed exclusively for legal, ethical, and authorized operations. Adherence to all applicable laws and regulations is paramount.</em>
 </p>
 
 ---
