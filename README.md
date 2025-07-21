@@ -33,73 +33,37 @@
 ---
 
 <p align="center">
-   <strong>Spearheading</strong> the charge on <strong>AthenaOS’s ARM64 Fedora variant</strong>, for <strong>Special Forces</strong> hacking, meticulously engineered for <strong>macOS VMware Fusion</strong>. Driving the relentless evolution of the <strong>ShadowStrike AthenaOS Theme</strong> <i>a shadow-forged, midnight hacking OS spy theme, cloaked in stealth and precision.</i> On a mission to flawlessly port <strong>Pop!_OS Cosmic</strong> to VMware Fusion, while pushing <strong>Wayland support</strong> to its absolute limits on <strong>Apple Silicon virtualization</strong>. <strong>Breaking barriers</strong>, <em>shattering boundaries</em>, and <strong>redefining the future</strong> of virtualization.
+  **Driving the innovation** behind **AthenaOS’s ARM64 Fedora variant** &mdash; meticulously engineered for **demanding security operations** within high-performance virtualized environments. I am focused on the relentless evolution of the **ShadowStrike AthenaOS Theme**: <i>a shadow-forged, midnight security OS designed for surgical precision and unparalleled operational stealth.</i> Our mission includes flawlessly porting **Pop!_OS Cosmic** to advanced virtualization platforms, while **pushing Wayland’s capabilities to their absolute limits** on **Apple Silicon virtualization**. This isn't just development; it's about **overcoming complex challenges**, **redefining technical paradigms**, and **shaping the future** of secure computing.
 </p>
 
-<ins>**ShadowStrike AthenaOS Edition**</ins> **is an operating system designed for professionals, combining:**
+<ins>**ShadowStrike AthenaOS Edition**</ins> **is a formidable operating system designed for serious cybersecurity professionals, seamlessly integrating:**
 <p align="center">
-  
-  - The **security** of **Fedora**
-  - The **tiling** features of **Pop!_OS Cosmic**
-  - **Performance** enhancements and the base of **AthenaOS**
-  - **Specialized Toolset Selector** minimizing bloat based on hacking roles
-  - **Blackarch Docker container**
-  - **ARM64** support with **VMware Fusion**
-  - Snapshots of **VMware Fusion**
-  - Delivered in the form of a optimized **VMDK** file for VMware Fusion
-  - VMDK has storage **shrinking/expansion** capabilites
-  - **MidnightStrikeOPS** Theme
-  - **Custom Hacking Gemini 2.5 Pro State-Of-The-Art AI Toolkit and Mentor** [**C.E. - Restricted**]
-  - Strong **Wireguard VPN** Setup [**C.E. - Restricted**]
-  - **Custom** Fish + OhMyPOSH Setup + Fastfetch
-  - **Custom** Ghostty setup + BigBlueTerm Nerd Fonts Mono + figlet shadow setup + lolcat + Custom glsl Shaders
-  - **Custom** iTerm2 setup + Exclusive Terminal Background + Stage Manager + Lockdown Mode + Automatic Privacy/Security Script + LS Firewall & Default Firewall + State-Of-The-Art AI DNS Malware Filter + Antivirus + VMware Fusion + Unlimited Free macOS Daily Wallpaper Generator (Flux Model)
-  - Signal + Telegram **Encrypted Communication Networks** Built-In
-  - **Additional Defensive Toolset**
-  - Many different **GNU/Linux Kernels** to choose from
-  - **NIST Feed**
-  - **HTB Toolkit** for Learning
-  - **Hacking Menus** Based On Roles
-  - **GHIDRA** Official NSA Reverse Engineering Toolset included
-  - Even **More**
-
-# MacOS Exclusives
-- **Homebrew Setup**
-- **Custom-Tuned iTerm2:** Bespoke terminal environment built for speed and efficiency.
-- **iTerm2 ImageCat custom gif loader**
-- **Exclusive Wallpapers:** Includes a custom background for the terminal and the *Flux Model* for unlimited, AI-generated macOS wallpapers daily.
-- **Optimized Stage Manager:** Pre-configured setup for a seamless and productive workflow.
-- **Proactive Lockdown Mode:** System-wide integration for maximum security posture.
-- **SIP Enabled and all macOS security enhancements enabled**
-- **Jamf** Enterprise-level security
-- **Automatic Security Script:** Custom script that continuously enforces privacy and security best practices.
-- **Dual-Layer Firewall:** Combines the default macOS firewall with the power of Little Snitch for comprehensive traffic control combined with a Berkeley Packet Filter Monitoring, Stealth Mode, Incoming Traffic Blocked, Browser VPN, Strong Wireguard Configuration, and DNS-Over-HTTPS
-- **AI-Powered DNS Filtering:** State-Of-The-Art DNS filter that blocks malware and malicious sites before they can even load.
-- **Integrated Antivirus:** Core antivirus protection built into the system.
-- **Cloud Browser/Browser-Proxy:** for reducing malware
-- **VMware Fusion:** is included, ready for all virtualization needs.
-- **Password Manager + Authenticator Built-in**
-- **VPN Built-in**
-- **Highly Advanced Audio Setup:** For listening while hacking, this audio setup combines my advanced audio knowledge from DJing, Music Production, and Playing the Guitar into producing the best sounds possible on the OS. (YTM + MyNoise + Brain.fm + Tauon + SomaFM  **[DEFCON Radio]**) (**DO NOT ABUSE SOMAFM or MyNoise**, SomaFM are a **not-for-profit** donation-based radio channel and **MyNoise** is also not-for-profit) (Turn off SomaFM and MyNoise if not using it) (If you like **SomaFM** please donate)
-- **Custom Cursor** + **Custom Cursor Click Effect**
-- **Productivity Toolset**
-- **Microsoft Office** installed by default
-- **OperaGX + OperaAir + Brave Browser (For PWA)**
-- **DuckDuckGo** browser enhancements and search engine
-- **Calibre Installed + Readest + Audiblez** (https://github.com/santinic/audiblez)
-- **Google AI Studio + Google Collab + Kaggle + HuggingFace** (AI Websites) Bookmarked
-- **Raycast + Apple Intelligence**
-- **Time Machine Backups**
-- **File Vault Encryption**
-- **ice**: macOS top bar theme
-- **pipx** support
-- **Gemini-CLI**
+  - The **inherent security** of **Fedora**
+  - The **efficient tiling** capabilities of **Pop!_OS Cosmic**
+  - **Optimized performance** built upon **AthenaOS’s** robust foundation
+  - A **Strategic Toolset Selector** for mission-critical, role-based deployments
+  - **Blackarch Docker container** integration for expanded capabilities
+  - **ARM64** architecture support across powerful virtualization platforms
+  - Instantaneous snapshotting for rapid deployment and recovery
+  - Delivered as an optimized **VMDK** engineered for dynamic storage scaling
+  - The **MidnightStrikeOPS** Theme: Designed for Immersive Operational Focus
+  - **Custom Hacking Gemini 2.5 Pro State-Of-The-Art AI Toolkit and Mentor** [**C.E. - Restricted Access**]
+  - **Robust Wireguard VPN** Setup [**C.E. - Restricted Access**]
+  - **Finely tuned** Fish + OhMyPOSH Setup + Fastfetch
+  - **Advanced** Ghostty setup + BigBlueTerm Nerd Fonts Mono + figlet shadow setup + lolcat + Custom glsl Shaders
+  - Encrypted Communication Networks **Hardened for Operational Security** (e.g., Signal + Telegram)
+  - An **Extensive Defensive Arsenal** to Counter Evolving Threats
+  - A comprehensive array of **GNU/Linux Kernels** for maximum adaptability
+  - **NIST Feed** for critical threat intelligence
+  - **HTB Toolkit** for Practical Skill Development & Scenario Simulation
+  - **Adaptive Role-Based Tooling Menus** for Efficient Operations
+  - **GHIDRA** (Official NSA Reverse Engineering Toolset) & More &mdash; A Complete Operational Suite
 
 ---
 
-<ins>**ShadowStrike AthenaOS Edition**</ins> is as much a **ideology** as an **operating system.** It is engineered from the ground up for **learning cybersecurity**, **special forces hacking operations**, and **professional penetration testing**. <ins>**ShadowStrike AthenaOS Edition**</ins> takes the best parts from all major hacking operating systems and combines them into one, following Apple Design philosophies combined with all my knowledge of Cybersecurity creating the ultimate operating system with a stable, bug-free experience. 
+<ins>**ShadowStrike AthenaOS Edition**</ins> transcends a mere operating system; it is an **advanced platform** &mdash; meticulously engineered from the ground up for **mastering cybersecurity disciplines**, enabling **specialized security missions**, and conducting **rigorous penetration testing**. <ins>**ShadowStrike AthenaOS Edition**</ins> synthesizes the strengths of leading offensive and defensive platforms, driven by a deep understanding of cybersecurity to deliver a **stable, high-performance, and dependable operational environment.**
 
-*ShadowStrike AthenaOS Edition must be used legally and ethically at all times.*
+*ShadowStrike AthenaOS Edition is designed exclusively for legal, ethical, and authorized operations. Adherence to all applicable laws and regulations is paramount.*
 
 </p>
 
