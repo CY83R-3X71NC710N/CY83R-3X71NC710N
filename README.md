@@ -83,7 +83,7 @@ I am an Apex Predator.
 ---
 
 <p align="center">
-  <ins>**ShadowStrike AthenaOS Edition**</ins> transcends a mere operating system; it is an **advanced platform** — meticulously engineered from the ground up for **mastering cybersecurity disciplines**, enabling **specialized security missions**, and conducting **rigorous penetration testing**. <ins>**ShadowStrike AthenaOS Edition**</ins> synthesizes the strengths of leading offensive and defensive platforms, **applying Apple's meticulous design philosophy** alongside a deep understanding of cybersecurity to create the **ultimate stable, high-performance, and dependable operational environment.**
+  <ins><strong>ShadowStrike AthenaOS Edition</strong></ins> transcends a mere operating system; it is an <strong>advanced platform</strong> — meticulously engineered from the ground up for <strong>mastering cybersecurity disciplines</strong>, enabling <strong>specialized security missions</strong>, and conducting <strong>rigorous penetration testing</strong>. <ins><strong>ShadowStrike AthenaOS Edition</strong></ins> synthesizes the strengths of leading offensive and defensive platforms, <strong>applying Apple's meticulous design philosophy</strong> alongside a deep understanding of cybersecurity to create the <strong>ultimate stable, high-performance, and dependable operational environment.</strong>
 </p>
 
 ---
