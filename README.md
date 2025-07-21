@@ -99,7 +99,7 @@ I am an Apex Predator.
 
 ---
 
-## K̡̛̟̗͓̪͙̥̱̟̮̮̼̙̳̰̙̠̼̮͗ͭ̌̔͐̒̒͑̈́̂͊̕͢͝e̵̫̞̳̹̖͍̦̼̔͊ͦ́͒ͩͤ̋ͬ̒̎ͤ̐̍̎̌ͣ̅͟͜y̡̪̝̥̤̲̤̓̾̆́́̏̔ͤ̏͡ Ę̵̝͉̠̠̹̩͇̳̗͓̣͕̻̬̤̠͚̳̠̻ͭ̽͒̾̉ͪ͗̃ͬ̀͗̎̿͐̀ͩ̈́̑͒̕͡x̨̭͎̳̳̼͖̱̾͆̉̈́͗ͪ͋͌̇p̴̨͙̼̥̬͉̪̮͔̿ͯͮͩ̓̊́̀͐̈̏͊͊́̿͛̒́͠͠͠ͅͅȩ̸̶̨̧̨̛̠̬̘̮̰̫̰̖̗̯̭̘̗̭̄̀̾ͯ̂͊̍̆ͥͧ͌̀͘̚͠ͅr̴̮ͮ̅ͫ_̼̬̟͓̲̬͎̍̓ͣͫt̛̪̯͍̫̰͕͒͊ͯ̀̀ͫ̚i̙͍ͪ̏͒́s̢͙̬̣̪̖̼̣͉̼̩̺̤̙͇̯̀ͬ͆̒̌ͪ̇̓̇̈́ͦ̕̕͜͢ͅḛ̶̦̟̬͚̯͇̈ͫͮ̓͊̑̀̎͡_̸̷̶̧̬̭̥̱͕͇͓̤̬̹̾̆͗͆͗͛̍̓̕͟͠͞
+## Ķ̵̜̬̥̻̻̹̻̭̯͓͕̜͙͙̜͚̦̅͟͟͝ë̶̡̧̧͇̺̯̯͎̠͈̱͙͉̪̞́̀͌͑̒̀̆̅̈́͘͜͟͝ͅͅy̸̧̙͙̦͎͍͍͉̗̪̹̮͖͈̞͍̗̦͚̻͂̊͛̋͑̃͐̄̀͒̋̎̎̓̏͒̽͒̑̌͋́̾̾̃̋͂̚͟͝ͅͅ ̶̨̨͙͓̭͍̳͙̼͔͈̫̗̭̝͉̝̜̫͚̩̠̼̳͇̑͋͆͊͂͊̓͒̌͛͒̈́̋̽̇̎̓̌̾̄͂̌̑̓͟͝͝͠͝ͅͅͅÉ̸̢̛͓̹̦̞͎͚̥̰̫̖͉͍͎̖̫̹͔̂͆̐̋̉̐̍̀͑͜͟͝ͅx̶̛̭̖̮̜̝̑̌̅̅͑̎͆͌̀̂̾̐͗̇̒̆͝p̸̨̡͎͓͕̲̥͓̦͉̹̖̳͈̼̮̫̞̪͋͆̌͆͒̊̈̅̓̃̈́̃̑̐̓͛̊̅͒͒̄̉̿͛̿͛̑̄͜͝ë̸̡̡̥̯͈̲̟̪̣̭̙́̏̑̓̈̾̀͜r̴̨̮̗͈͈̫͆̈́̎́̈́̓̎̈́̓̾̿̄̇̄͋̓̈́̕̕͘͘͝͠͠͝ͅt̶̡̢̨̛̻̯̤̱̬͖͖̳͓͖͍̖̼̺̠͉̫̪̫͖͚̣͍͇͇̠͔̽̈́̔̾̂͂̑̽͐̌͌́̈̅̎͆́̐̓͒͂̔̈́̆̇͌̚ĩ̴̥̰͔̼̯̟͔͓̰̮̥̍̋͐̍̊̓̅͊̽͑ś̵̡̼̟̭̼̫̬̩̭̗͚̹̯͈͍̘̬̭̙̩̘̮̝̽́̽̏̂̑̀́̈́̔̍̓͜͝ė̸̩̦̣̱̻̳̦̪̦̈́̏̄͋̓̿͘͟ͅ
 - **Full-Stack & AI Engineering:** Autonomous development of advanced solutions, encompassing AI programming (Expert Github Copilot Automation Knowledge + Visual Studio Code Knowledge with Plugins and Theming) and versatile coding across diverse domains.
 - **Python-Language Focus:** Studied python in-depth.
 - **Operating System Mastery:** Deep expertise in developing, hardening, and optimizing macOS, Windows, and GNU/Linux systems, including custom OS creation.
