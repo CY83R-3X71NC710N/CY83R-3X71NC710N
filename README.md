@@ -78,7 +78,7 @@ I am an Apex Predator.
 - **NIST Feed** for critical threat intelligence
 - **HTB Toolkit** for Practical Skill Development & Scenario Simulation
 - **Adaptive Role-Based Tooling Menus** for Efficient Operations
-- **GHIDRA** (Official NSA Reverse Engineering Toolset) & More — A Complete Operational Suite
+- **GHIDRA** (Official NSA Reverse Engineering Toolset) & **Even More**
 
 ---
 
