@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong style="font-size: 1.6em;">Cyber Operations Specialist</strong><br>
-  <em>Specialist in Stealth, Deception, and Intrusion</em>
+  <em>Precision in Stealth, Deception, and Digital Intrusion</em>
 </p>
 
 <p align="center">
