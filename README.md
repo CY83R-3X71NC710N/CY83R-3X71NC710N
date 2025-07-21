@@ -73,7 +73,7 @@
 * **Operating System Mastery:** Deep expertise in developing, hardening, and optimizing macOS, Windows, and GNU/Linux systems, including custom OS creation.
 * **Elite Cyber Operations:** Precision in AI-driven exploitation, social engineering, OSINT, stealth, deception, and comprehensive defensive strategies.
 * **Strategic & Cognitive Architecture:** Expert in metacognition, productivity optimization (Highly strategic driven planning, AI-assisted day management), and comprehensive research.
-* **Information & Data Management:** Strong foundation in mathematics, digital archiving, and effective personal finance management.
+* **Information & Data Management:** Strong foundation in mathematics, digital archiving, US Government (As well as other countries), business, and effective personal finance management.
 
 ---
 
@@ -82,7 +82,7 @@
 ---
 
 * **Digital & Creative Arts:** Expert in video games & modding, DJing, guitar, music production, photography, and photo editing.
-* **Physical & Mind Discipline:** Dedicated to martial arts, weightlifting, food & nutrition, and mastering personal fashion aesthetics.
+* **Physical & Mind Discipline:** Dedicated to martial arts, weightlifting, food, nutrition & cooking, mindfulness, personal care, and mastering personal fashion aesthetics.
 * **Continuous Learning:** Passionate about reading, social dynamics, effective communication, automotive knowledge, and exploring emerging technologies (AI/AGI, Quantum Computing).
 
 ---
