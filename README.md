@@ -56,8 +56,6 @@
 - **Learning Passion**: My score of over **1 million points** on **Khan Academy** and various **Udemy** and **LinkedIn Learning** Certificates showcases my passion to learning.
 - **Federal Program Distinction:** Excelled in the **FBI TEAM Program**.
 
-I am an Apex Predator.
-
 ---
 
 <h2 align="center">ĐɆVɆⱠØ₱ł₦₲ ₴Ⱨ₳ĐØ₩₴₮Ɽł₭Ɇ ₳₮ⱧɆ₦₳Ø₴ ɆĐł₮łØ₦</h2>
