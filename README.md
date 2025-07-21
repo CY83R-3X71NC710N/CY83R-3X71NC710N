@@ -82,7 +82,7 @@
 
 ---
 
-* **Digital & Creative Arts:** Expert in video games & modding, DJing, guitar, music production, photography, photo editing, and AI Generative Arts & Imaging.
+* **Digital & Creative Arts:** Competitive Video Gamer & advanced gaming modding knowledge, DJing, guitar, music production, photography, photo editing, and AI Generative Arts & Imaging.
 * **Physical & Mind Discipline:** Dedicated to martial arts, weightlifting, walking, biking, food, nutrition & cooking, mindfulness, personal care, and mastering personal fashion aesthetics.
 * **Continuous Learning:** Passionate about reading, psychology, philosophy, video games and movies, social dynamics, effective communication, automotive knowledge, and exploring emerging technologies (AI/AGI/ASI, Quantum Computing).
 
