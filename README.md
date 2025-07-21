@@ -37,7 +37,7 @@
   <strong>At 17</strong>, with <strong>four years of relentless experience forged</strong> in Cybersecurity, I <strong>dominate Cyber Operations, AI-driven Penetration Testing, OSINT, AI/human exploitation, cross-platform OS development, and autonomous AI programming.</strong> My status is validated by:
 </p>
 
-- **Industry Recognition:** Member of the **GIAC Advisory Board (Elite Society of Top Scorers from SANS)** & **GitHub Developer Program**.
+- **Industry Recognition:** Member of the **GIAC Advisory Board (Elite Guidance Community of Top Scorers from SANS)** & **GitHub Developer Program**.
 - **SANS Certifications:** GSEC & GFACT.
 - **NSA Codebreaker Program (2023-2024):** Ranked #1 in high school achieving Level 7 in the Program.
 - **Cyberstart America (2022-2024):** Top 1%, earning $12,000 in scholarships & National Cyber Scholar with Honors.
