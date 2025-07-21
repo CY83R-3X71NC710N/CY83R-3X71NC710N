@@ -112,7 +112,7 @@ Hearing that word was like someone had finally given a name to a language I'd be
 
 ---
 
-## Key-Expertise
+## ₖₑy₋ₑₓₚₑᵣₜᵢₛₑ
 - **Full-Stack & AI Engineering:** Autonomous development of advanced solutions, encompassing AI programming (Expert Github Copilot Automation Knowledge + Visual Studio Code Knowledge with Plugins and Theming) and versatile coding across diverse domains.
 - **Python-Language Focus:** Studied python in-depth.
 - **Operating System Mastery:** Deep expertise in developing, hardening, and optimizing macOS, Windows, and GNU/Linux systems, including custom OS creation.
@@ -127,7 +127,7 @@ Hearing that word was like someone had finally given a name to a language I'd be
 
 ---
 
-## Diverse Pursuits
+## Dᵢᵥₑᵣₛₑ ₚᵤᵣₛᵤᵢₜₛ
 - **Digital & Creative Arts:** Competitive Video Gamer & advanced gaming modding knowledge, Game Development Knowledge, DJing, guitar, music production, photography, photo editing, and AI Generative Arts & Imaging (including upscaling and compression).
 - **Physical & Mind Discipline:** Dedicated to martial arts, weightlifting, walking, biking, food, nutrition & cooking, mindfulness, personal care, and mastering personal fashion aesthetics.
 - **Continuous Learning:** Passionate about reading (Expert on E-book formats, AI Audiobook Knowledge, Book Appearance), psychology (specifically interrogation), philosophy, religious study, video games and movies, social dynamics, effective communication, automotive knowledge, and exploring emerging technologies (AI/AGI/ASI, Quantum Computing).
