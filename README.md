@@ -41,7 +41,7 @@
 - **SANS Certifications:** GSEC & GFACT.
 - **NSA Codebreaker Program (2023-2024):** Ranked #1 in high school achieving Level 7 in the Program.
 - **Cyberstart America (2022-2024):** Top 1% (I had the most points possible in the CTF), earning $12,000 in scholarships & National Cyber Scholar with Honors.
-- **Unique Academic Distinction:** One of only a few students to receive both the Business and Computer Science awards at a ~1000-student high school.
+- **Unique Academic Distinction:** One of the only students to receive both the Business and Computer Science awards out of every student at a ~1000-student high school. Received a plaque award and was congratulated in front of the entire school.
 - **Computer Science & Development Mastery:** Achieved 100% (A+) grades for the entire semester in both Web Design and Video Game Development; was a top-performing student in AP Computer Science Principles (A- grade, AP Score of 4).
 - **AP Scholar:** Earned top scores (5 out of 5) on both the **AP US Government** and **AP World History** exams.
 - **Academic Excellence:** Consistently maintained a top ~10 academic rank.
