@@ -60,7 +60,7 @@ I am an Apex Predator.
 
 ---
 
-<h2 align="center">Developing 𝐒⃥⃒̸𝐡⃥⃒̸𝐚⃥⃒̸𝐝⃥⃒̸𝐨⃥⃒̸𝐰⃥⃒̸𝐒⃥⃒̸𝐭⃥⃒̸𝐫⃥⃒̸𝐢⃥⃒̸𝐤⃥⃒̸𝐞⃥⃒̸ 𝐀⃥⃒̸𝐭⃥⃒̸𝐡⃥⃒̸𝐞⃥⃒̸𝐧⃥⃒̸𝐚⃥⃒̸𝐎⃥⃒̸𝐒⃥⃒̸ 𝐄⃥⃒̸𝐝⃥⃒̸𝐢⃥⃒̸𝐭⃥⃒̸𝐢⃥⃒̸𝐨⃥⃒̸𝐧⃥⃒̸</h2>
+<h2 align="center">ĐɆVɆⱠØ₱ł₦₲ ₴Ⱨ₳ĐØ₩₴₮Ɽł₭Ɇ ₳₮ⱧɆ₦₳Ø₴ ɆĐł₮łØ₦</h2>
 
 <ins>**ShadowStrike AthenaOS Edition**</ins> is a formidable operating system designed for serious cybersecurity professionals, seamlessly integrating:
 
