@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  As a **Cyber Operations Specialist**, I blend a polymathic drive with deep technical mastery. My expertise encompasses **foundational operating system engineering** across macOS, Windows, and GNU/Linux—including bespoke OS development and meticulous system hardening. I **autonomously develop complex solutions using AI programming**, continually pushing the boundaries of virtualization. This extensive skillset underpins my work on projects like **AthenaOS**, where I architect advanced security operations, integrating cutting-edge offensive and defensive strategies to shape the future of secure computing.
+  As a **Cyber Operations Specialist**, I blend a polymathic drive with deep technical mastery. My expertise encompasses **foundational operating system engineering** across macOS, Windows, and GNU/Linux—including bespoke OS development and meticulous system hardening. I **autonomously develop complex solutions using AI programming**, continually pushing the boundaries of virtualization. This extensive skillset underpins my work on projects like **ShadowStrike AthenaOS Edition**, where I architect advanced security operations, integrating cutting-edge offensive and defensive strategies to shape the future of secure computing.
 </p>
 
 <ins>**ShadowStrike AthenaOS Edition**</ins> **is a formidable operating system designed for serious cybersecurity professionals, seamlessly integrating:**
@@ -71,8 +71,8 @@
 
 * **Full-Stack & AI Engineering:** Autonomous development of advanced solutions, encompassing AI programming and versatile coding across diverse domains.
 * **Operating System Mastery:** Deep expertise in developing, hardening, and optimizing macOS, Windows, and GNU/Linux systems, including custom OS creation.
-* **Elite Cyber Operations:** Precision in AI-driven exploitation, human-element penetration (social engineering), OSINT, stealth, deception, and comprehensive defensive strategies.
-* **Strategic & Cognitive Architecture:** Expert in metacognition, productivity optimization (INTJ-driven planning, AI-assisted day management), and comprehensive research.
+* **Elite Cyber Operations:** Precision in AI-driven exploitation, social engineering, OSINT, stealth, deception, and comprehensive defensive strategies.
+* **Strategic & Cognitive Architecture:** Expert in metacognition, productivity optimization (Highly strategic driven planning, AI-assisted day management), and comprehensive research.
 * **Information & Data Management:** Strong foundation in mathematics, digital archiving, and effective personal finance management.
 
 ---
