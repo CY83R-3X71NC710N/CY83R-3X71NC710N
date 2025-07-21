@@ -1,5 +1,3 @@
----
-
 <h1 align="center">
   <img src="cy83r-3x71nc710n-text.gif" alt="CY83R-3X71NC710N">
 </h1>
@@ -16,7 +14,7 @@
 </p>
 
 <p align="center">
-  <strong>Currently Exploring AI Warfare, AI Consciousness, ASI, AGI, and Quantum Computing</strong>
+  <strong>Exploring Frontiers: AI Warfare, AI Consciousness, AGI, ASI, and Quantum Computing</strong>
 </p>
 
 ---
@@ -31,7 +29,10 @@
 </p>
 
 ---
-**Driving the innovation** behind **AthenaOS’s ARM64 Fedora variant** meticulously engineered for **demanding security operations** within high-performance virtualized environments. I'm relentlessly **advancing** the **ShadowStrike AthenaOS Theme**: *a shadow-forged, midnight security OS designed for surgical precision and unparalleled operational stealth.* Our mission includes flawlessly porting **Pop!_OS Cosmic** to advanced virtualization platforms, while **pushing Wayland’s capabilities to their absolute limits** on **Apple Silicon virtualization**. This isn't just development; it's about **mastering complex challenges**, **redefining technical paradigms**, and **shaping the future** of secure computing.
+
+<p align="center">
+  As a **Cyber Operations Specialist**, I blend a polymathic drive with deep technical mastery. My expertise encompasses **foundational operating system engineering** across macOS, Windows, and GNU/Linux—including bespoke OS development and meticulous system hardening. I **autonomously develop complex solutions using AI programming**, continually pushing the boundaries of virtualization. This extensive skillset underpins my work on projects like **AthenaOS**, where I architect advanced security operations, integrating cutting-edge offensive and defensive strategies to shape the future of secure computing.
+</p>
 
 <ins>**ShadowStrike AthenaOS Edition**</ins> **is a formidable operating system designed for serious cybersecurity professionals, seamlessly integrating:**
 
@@ -63,6 +64,29 @@
 *ShadowStrike AthenaOS Edition is designed exclusively for legal, ethical, and authorized operations. Adherence to all applicable laws and regulations is paramount.*
 
 ---
+
+## Key Expertise
+
+---
+
+* **Full-Stack & AI Engineering:** Autonomous development of advanced solutions, encompassing AI programming and versatile coding across diverse domains.
+* **Operating System Mastery:** Deep expertise in developing, hardening, and optimizing macOS, Windows, and GNU/Linux systems, including custom OS creation.
+* **Elite Cyber Operations:** Precision in AI-driven exploitation, human-element penetration (social engineering), OSINT, stealth, deception, and comprehensive defensive strategies.
+* **Strategic & Cognitive Architecture:** Expert in metacognition, productivity optimization (INTJ-driven planning, AI-assisted day management), and comprehensive research.
+* **Information & Data Management:** Strong foundation in mathematics, digital archiving, and effective personal finance management.
+
+---
+
+## Diverse Pursuits
+
+---
+
+* **Digital & Creative Arts:** Expert in video games & modding, DJing, guitar, music production, photography, and photo editing.
+* **Physical & Mind Discipline:** Dedicated to martial arts, weightlifting, food & nutrition, and mastering personal fashion aesthetics.
+* **Continuous Learning:** Passionate about reading, social dynamics, effective communication, automotive knowledge, and exploring emerging technologies (AI/AGI, Quantum Computing).
+
+---
+
 <h1 align="center">Trophies</h1>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
