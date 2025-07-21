@@ -114,14 +114,14 @@ I am an Apex Predator.
 
 ---
 
-## Diverse Pursuits
+## D_̵̴̵̴̛̬͔͉̥̻̤͙̦̻̜͖͖̣̻̦͓ͩ͌̈͑̽́̃̈͆̌̅̀̇ͨ̎ͪͨ̾̚̕͝͞͠͡ív̧̙̜͙̪̯̹͍̝̀ͤ͗̀͑͆ͤ̌̊̚͝_̨̻͎̜͕̩͑̀̉̄͠e̷̤̪̊̓̽̍r̞̣̬̣̻̦̤̰̥̖̱ͩ͗̃̒̂͒̄ͨ̂̆̓͗̊̎ͥ̓̾́ͨ͒͘̚̕͠͝s̭͖̦ͧͬ͆́̈́́̊̋̀̉ͮͩ̌ͣ̐̚ę͕͍̑͑͌_ P̦̞ų̙̲̟̤͉̬̳͔̙͚͂̄́̀̀̀͗̏ͪ̃͗ͥ͡ŗ̡̝̥̪͔̼̱̰͔̖͆͐̑ͣ̈͐ͪ̊ͩ̍̆͑͊̀̋̈̌ͯ͊͘͡͞s̷̖̺̱͚͉͉͊͂̈ͧ͠͞ų̸̸̶̛̲͍̣͙̪͓̪̬͙͚̣͙̗̫͙̈́̂ͤ̿̆͒̃͑̈́̍ͧͯ̿ͬͦ̒̐͊̑ͦ́̏̓̄͜͝i̶̟̹̳̭̥̳̲̦̳̟̞̓̏̏̉ͣ̏͐ͧ͟_̨̛̤̰͕̥͎̭̖̖͎ͯ́̈ͣ̈̀̇ͦ͐ͪͫͫ͠t̷̴̷̴̢̨̜̺̹̣̫̜̼̗͍̪͇̘͓̯̠̮͍͖̟́ͦ̏̉̌̄ͣ̾͗̔͛͂̀ͭ̐͟͢͟͠ŝ̶̓̑̉
 - **Digital & Creative Arts:** Competitive Video Gamer & advanced gaming modding knowledge, Game Development Knowledge, DJing, guitar, music production, photography, photo editing, and AI Generative Arts & Imaging (including upscaling and compression).
 - **Physical & Mind Discipline:** Dedicated to martial arts, weightlifting, walking, biking, food, nutrition & cooking, mindfulness, personal care, and mastering personal fashion aesthetics.
 - **Continuous Learning:** Passionate about reading (Expert on E-book formats, AI Audiobook Knowledge, Book Appearance), psychology (specifically interrogation), philosophy, religious study, video games and movies, social dynamics, effective communication, automotive knowledge, and exploring emerging technologies (AI/AGI/ASI, Quantum Computing).
 
 ---
 
-<h1 align="center">Trophies</h1>
+<h1 align="center">T̰ͤ͝_̴̶̷̪̗̰̣̭̭̯͓͚̯̲̬̯̞ͯ̆ͥ̄̃ͯ̔̐͒ͪ̀ͥ͢_̺̩͚̖͋͛̒͠r̵̢͎̦̫̄̎o̷͇̮̺̖͙̫̥͔̔͂́ͥ̓̃̕͢͞͠p̷̡̧̢̨̛͇̬̲̗̲̺̫͈̳̘̘̼̙̮̫̠͎ͬ̏̾͛̎͂͗ͭͩ̊̓ͯ̀̉̓̑̎̿͑͂͘͡͡͠ḩ̵̴̵̨̫̤̹̝̺͔̪̗̝̠͉̼͉̥̝̗̖̝̂̓͂́͐͌ͬ̂̅ͬ͗̔ͨ̉͂́̑̃̎̕͟͝ͅi̢̨̥̦̗̫͔͙̔̐̓̐̋̄̎̕͘̚͞_̺̞̈́͜͝ẹ̛̓s͕</h1>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://hacked-github-stat-trophies.vercel.app/?username=cy83r-3x71nc710n&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="cy83r-3x71nc710n's Stat Trophies">
@@ -130,7 +130,7 @@ I am an Apex Predator.
 
 ---
 
-<h1 align="center">Github Rating</h1>
+<h1 align="center">Ġ̵̨͓͖̜̩̹̣̖̱̰̗̘̪͈̩̖͇̙͇̫ͬ̉́̐̏ͪ̃̍̎́̌́͢i̷͉̩̯̼͙̦ͪ͐̇ͧ͑͊͗͠͝_̨̛̙͍͈̈ͨ̏̀ͤ̃̆͡ţ̭̽̓̈͆h͍̾̄_̜̐ư̷̵̸̴̵̧͚̯̞͚̯̹̋ͯ̔̑́̓͑͐͋ͪ̾ͯ̆̆̎̈́͘͜͜͜͢͡͞͝ͅͅͅͅb̡̢ͩ R̡̛̤̘̤̞͈̫͎͍̒̓̍ͮͨͨ̈ͤ́͞͡ả̸̸̸̧͓͍̹̿ͨ̈́̔̿ͭͨͧͯ̍͂́̒̉̕͜͢͞ṫ̶̶̴̳̲̰̖͕̜͔̪̹̪͓͈͕̮ͣ́̒͂͆̒̔̇ͯ̀̚͜͟͡͠͞ͅĭ̡̢̛̛͎̹̫̜̖̦̩̩̯͙͇̦̯͎́͑͒ͭ͛ͩ͆̒̈ͥ̈̕̕nḡ̸̡̡͙̹̯͉̟̯̞̱̝͉̂ͦ̀ͫ͜͞</h1>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=CY83R-3X71NC710N&show_icons=true&theme=radical&hide_title=false" alt="cy83r-3x71nc710n's Github Ranking">
