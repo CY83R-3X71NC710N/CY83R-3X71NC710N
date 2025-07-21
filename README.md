@@ -31,6 +31,8 @@
   As a <strong>Cyber Operations Specialist</strong>, I blend a polymathic drive with deep technical mastery. My expertise encompasses <strong>foundational operating system engineering</strong> across macOS, Windows, and GNU/Linux—including bespoke OS development and meticulous system hardening. I <strong>autonomously develop complex solutions using AI programming</strong>, continually pushing the boundaries of virtualization. This extensive skillset underpins my work on projects like <strong>ShadowStrike AthenaOS Edition</strong>, where I architect advanced security operations, integrating cutting-edge offensive and defensive strategies to shape the future of secure computing.
 </p>
 
+---
+
 <p align="center">
   <strong>At 17</strong>, with <strong>four years of relentless experience forged</strong> in Cybersecurity, I <strong>dominate Cyber Operations, AI-driven Penetration Testing, OSINT, AI/human exploitation, cross-platform OS development, and autonomous AI programming.</strong> My status is validated by:
 </p>
