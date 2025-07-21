@@ -72,7 +72,7 @@
 * **Full-Stack & AI Engineering:** Autonomous development of advanced solutions, encompassing AI programming and versatile coding across diverse domains.
 * **Operating System Mastery:** Deep expertise in developing, hardening, and optimizing macOS, Windows, and GNU/Linux systems, including custom OS creation.
 * **Elite Cyber Operations:** Precision in AI-driven exploitation, social engineering, OSINT, stealth, deception, and comprehensive defensive strategies.
-* **Strategic & Cognitive Architecture:** Expert in metacognition, productivity optimization (Highly strategic driven planning, AI-assisted day management), and comprehensive research.
+* **Strategic & Cognitive Architecture:** Expert in metacognition, productivity optimization (Highly strategic planning, AI-assisted day management), and comprehensive research.
 * **Information & Data Management:** Strong foundation in mathematics, digital archiving, US Government (As well as other countries), business, and effective personal finance management.
 
 ---
