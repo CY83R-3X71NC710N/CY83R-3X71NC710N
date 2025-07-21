@@ -34,6 +34,14 @@
   As a **Cyber Operations Specialist**, I blend a polymathic drive with deep technical mastery. My expertise encompasses **foundational operating system engineering** across macOS, Windows, and GNU/Linux—including bespoke OS development and meticulous system hardening. I **autonomously develop complex solutions using AI programming**, continually pushing the boundaries of virtualization. This extensive skillset underpins my work on projects like **ShadowStrike AthenaOS Edition**, where I architect advanced security operations, integrating cutting-edge offensive and defensive strategies to shape the future of secure computing.
 </p>
 
+---
+
+<p align="center">
+  With three years of experience in Cybersecurity, I specialize in Cyber Operations, AI-driven Penetration Testing, Investigative Forensics, OSINT, and threat analysis. I hold two certifications from the SANS Institute: GSEC and GFACT, and I am also a member of the GIAC Advisory Board and GitHub Developer Program. My accomplishments include ranking as the top student from Waterford Union High School in the NSA Codebreaker Program (2023-2024), placing in the top 1% of Cyberstart America, and securing two scholarships between 2022 and 2024 one worth $3000 and the other worth $9000. Additionally, I excelled in the FBI Teen Experience and Mentorship Program, where I gained valuable insights from law enforcement professionals. I am particularly interested in advancing the application of AI in penetration testing and exploring its potential to enhance attack strategies.
+</p>
+
+---
+
 <ins>**ShadowStrike AthenaOS Edition**</ins> **is a formidable operating system designed for serious cybersecurity professionals, seamlessly integrating:**
 
 -   The **inherent security** of **Fedora**
