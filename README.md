@@ -45,7 +45,7 @@
 - **Computer Science & Development Mastery:** Achieved 100% (A+) grades for the entire semester in both Web Design and Video Game Development; was a top-performing student in AP Computer Science Principles (A- grade, AP Score of 4).
 - **AP Scholar:** Earned top scores (5 out of 5) on both the **AP US Government** and **AP World History** exams.
 - **Academic Excellence:** Consistently maintained a top ~10 academic rank.
-- **Social and Leadership Experience** I earned compelling Leadership experience during the Robotics Intramural Season and Esports competitions at my school. Additionally, I frequently collaborated with classmates and took on leadership roles in group projects, guiding my team to strong academic results. Additionally I lead my entire group in Drama Class with missing members to recieve an A on our performance, which was difficult considering the missing team member.
+- **Social and Leadership Experience** I earned compelling Leadership experience during the Robotics Intramural Season and Esports competitions at my school. Additionally, I frequently collaborated with classmates and took on leadership roles in group projects, guiding my team to strong academic results. Additionally I lead my entire group in Drama Class with missing members to recieve an A on our performance the entire class saw, which was difficult considering the missing team member.
 - **Learning Passion**: My score of over **1 million points** on **Khan Academy** and various **Udemy** and **LinkedIn Learning** Certificates showcases my passion to learning.
 - **Federal Program Distinction:** Excelled in the **FBI TEAM Program**.
 
