@@ -114,7 +114,7 @@ I am an Apex Predator.
 
 ---
 
-## D_̵̴̵̴̛̬͔͉̥̻̤͙̦̻̜͖͖̣̻̦͓ͩ͌̈͑̽́̃̈͆̌̅̀̇ͨ̎ͪͨ̾̚̕͝͞͠͡ív̧̙̜͙̪̯̹͍̝̀ͤ͗̀͑͆ͤ̌̊̚͝_̨̻͎̜͕̩͑̀̉̄͠e̷̤̪̊̓̽̍r̞̣̬̣̻̦̤̰̥̖̱ͩ͗̃̒̂͒̄ͨ̂̆̓͗̊̎ͥ̓̾́ͨ͒͘̚̕͠͝s̭͖̦ͧͬ͆́̈́́̊̋̀̉ͮͩ̌ͣ̐̚ę͕͍̑͑͌_ P̦̞ų̙̲̟̤͉̬̳͔̙͚͂̄́̀̀̀͗̏ͪ̃͗ͥ͡ŗ̡̝̥̪͔̼̱̰͔̖͆͐̑ͣ̈͐ͪ̊ͩ̍̆͑͊̀̋̈̌ͯ͊͘͡͞s̷̖̺̱͚͉͉͊͂̈ͧ͠͞ų̸̸̶̛̲͍̣͙̪͓̪̬͙͚̣͙̗̫͙̈́̂ͤ̿̆͒̃͑̈́̍ͧͯ̿ͬͦ̒̐͊̑ͦ́̏̓̄͜͝i̶̟̹̳̭̥̳̲̦̳̟̞̓̏̏̉ͣ̏͐ͧ͟_̨̛̤̰͕̥͎̭̖̖͎ͯ́̈ͣ̈̀̇ͦ͐ͪͫͫ͠t̷̴̷̴̢̨̜̺̹̣̫̜̼̗͍̪͇̘͓̯̠̮͍͖̟́ͦ̏̉̌̄ͣ̾͗̔͛͂̀ͭ̐͟͢͟͠ŝ̶̓̑̉
+## D̸̙̺̤̯͎͚̣̥͗̅i̴̛͚̻̤͔̳̰̮̒͗̍̓̇̿v̷̩͔͖͈͍͚̝̩̈́̔͂̈́̆̆͂̋̋ͅȩ̸̛̮̳̩̻̀̍́̋͟ͅŗ̷̡̮̫͗̏s̴̛͔̏̊̔͡ẻ̷̟͖͍̳͈͔͍͗̊̔̈̆̑̽͜͝ ̷̨͎̹͙̤̤̳̲́̈́̈̓̚͠P̶̙̭̻̊̿̃̋͛̌͊͠ų̴̡̢̯̘̣̼̱̜̇̐̇͜r̴̢̥͎̭͇͗̿͋̉̅̽̾͆̓s̸̨͈̘̪̬͛͊͛̿̈́͂͌̔͘ụ̴̢̀͂͗̂̓̈́̾́i̸̠͙͋̃͐̏t̴̩̤̪̣̬͍̩̮͓͙̂͑̊̑̐̓̓̾̚͡s̵̛͉̰̏̃
 - **Digital & Creative Arts:** Competitive Video Gamer & advanced gaming modding knowledge, Game Development Knowledge, DJing, guitar, music production, photography, photo editing, and AI Generative Arts & Imaging (including upscaling and compression).
 - **Physical & Mind Discipline:** Dedicated to martial arts, weightlifting, walking, biking, food, nutrition & cooking, mindfulness, personal care, and mastering personal fashion aesthetics.
 - **Continuous Learning:** Passionate about reading (Expert on E-book formats, AI Audiobook Knowledge, Book Appearance), psychology (specifically interrogation), philosophy, religious study, video games and movies, social dynamics, effective communication, automotive knowledge, and exploring emerging technologies (AI/AGI/ASI, Quantum Computing).
