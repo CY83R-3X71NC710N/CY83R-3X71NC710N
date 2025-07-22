@@ -143,7 +143,7 @@ In this transformed future, my mission will be to ensure the 'Jedi' operates cor
 ---
 
 ## 𝓓𝓲𝓿𝓮𝓻𝓼𝓮-𝓟𝓾𝓻𝓼𝓾𝓲𝓽𝓼
-- **Digital & Creative Arts:** Competitive Video Gamer & advanced gaming modding knowledge, Game Development Knowledge, DJing, guitar, music production, photography, photo editing, and AI Generative Arts & Imaging (including upscaling and compression).
+- **Digital & Creative Arts:** Competitive Video Gamer (Usually RTS Games) & advanced gaming modding knowledge, Game Development Knowledge, DJing, guitar, music production, photography, photo editing, and AI Generative Arts & Imaging (including upscaling and compression).
 - **Physical & Mind Discipline:** Dedicated to martial arts, weightlifting, walking, biking, food, nutrition & cooking, mindfulness, personal care, and mastering personal fashion aesthetics.
 - **Continuous Learning:** Passionate about reading (Expert on E-book formats, AI Audiobook Knowledge, Book Appearance), psychology (specifically interrogation), philosophy, religious study, video games and movies, social dynamics, effective communication, automotive knowledge, and exploring emerging technologies (AI/AGI/ASI, Quantum Computing).
 
