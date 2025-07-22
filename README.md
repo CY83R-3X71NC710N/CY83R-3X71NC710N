@@ -56,7 +56,7 @@
 - **Recognized by BigFuture** (Creator of AP Exams) Through the AP Scholar with Honors Award.
 - **Learning Passion**: My score of over **1 million points** on **Khan Academy** and various **Udemy** and **LinkedIn Learning** Certificates showcases my passion to learning.
 - **Federal Program Distinction:** Excelled in the **FBI TEAM Program** and recieved a personal mentor as well as many government, police department, fire department, and millitary contacts.
-- **Working** unpaid internship at Maze3 Studios since July 22nd 2025 as Chief Hacking Officer (Though due to the small-team size, I do not have to manage as much as a large-scale operation), In this role I guide all my team members whom some of which do not have cyber experience to develop technologically secure video games with the protections that are desired. This is as much a research role as it is a deployment role.
+- **Working** unpaid internship at Maze3 Studios since July 22nd 2025 as Chief Hacking Officer (Though due to the small-team size, I do not have to manage as much as a large-scale operation), In this role I guide all my team members whom some of which do not have cyber experience to develop technologically secure video games with the protections that are desired. This is as much a research role as it is a deployment role. So far I am working on making highly-secure website for Maze3 to showcase work.
 ---
 
 <h2 align="center">˜”*°•.˜”*°• Origin Story •°*”˜.•°*”˜</h2>
