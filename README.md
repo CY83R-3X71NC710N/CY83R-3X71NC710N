@@ -60,7 +60,7 @@
 ---
 
 <h2 align="center">˜”*°•.˜”*°• Origin Story •°*”˜.•°*”˜</h2>
-
+```
   My journey into technology began with a spark of mischievous curiosity in the third grade. My focus was supposed to be on my assignments, but more often than not, my curiosity won that battle. I’d be completely captivated by what our classroom computers could do, figuring out little tricks and shortcuts. The real fun, however, came from sharing those discoveries with my classmates. That feeling of being the person who could make the technology sing even when I wasn't supposed to, had planted a seed for everything that would follow.
 
 By sixth grade, that seed had grown into a full-blown community. I founded my school's first "ethical hacking" club, complete with a brand, a set of rules, and even a unique greeting that being a quick fist tapped into a straight vertical hand. I’m sure our teachers thought it was a secret plan for a playground brawl, but for us, it was the symbol of a thriving community built on camaraderie and a love for tech.
@@ -70,7 +70,7 @@ That same year, my reputation was put to a real test. My teacher had been strugg
 Armed with stories of my leadership in the popular club and the critical 3D printer fix, my teacher had a lot to share at our next parent-teacher conference. After she praised my 'technical capabilities and intelligence,' my parent came to me and asked the question that would define my future: "Have you ever thought about a career in something like cybersecurity?"
 
   Hearing that word was like someone had finally given a name to a language I'd been speaking my whole life. The joy I felt discovering tricks in third grade, building the club, and fixing that printer wasn't just a hobby; it was the start of everything, waiting for a perceptive teacher and a supportive parent to help give it a name and a direction. That was the day my future came into focus. The joy in third grade was about proving what was possible, the club was about building a community in my own image, and fixing that printer was about demonstrating that I could handle a problem no one else could. the most interesting thing about hacker culture to me is that is doesn't have to be shared to be understood, hacker culture is making computers do things they weren't intended to do, even without knowing the official term for cybersecurity, I discovered hacker culture, and since that day, I recognized my drive for curiosity and ambition had a name. I've been on this path ever since, and my focus is on taking on the next impossible problem because when someone tells me something isn't possible, that's my signal to prove them wrong. 
-
+```
 ---
 
 <h2 align="center">ĐɆVɆⱠØ₱ł₦₲ ₴Ⱨ₳ĐØ₩₴₮Ɽł₭Ɇ ₳₮ⱧɆ₦₳Ø₴ ɆĐł₮łØ₦</h2>
