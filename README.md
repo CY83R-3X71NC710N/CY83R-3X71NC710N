@@ -81,9 +81,9 @@ ShadowStrike AthenaOS is my unique operating system showcasing all my skills and
 
 ShadowStrike not only contains a GNU/Linux Operating System but an entire guide and method for optimizing even the host environment (macOS). ShadowStrike Athena is an idea as much as an OS, this idea will adapt as my knowledge rapidly expands.
 
-```
-Seamlessly integrating:
-```
+
+# ꜱᴇᴀᴍʟᴇꜱꜱʟʏ ɪɴᴛᴇɢʀᴀᴛɪɴɢ:
+
 - The **inherent security** of **Fedora**
 - The **efficient tiling** capabilities of **Pop!_OS Cosmic**
 - **Optimized performance** built upon **AthenaOS’s** robust foundation
