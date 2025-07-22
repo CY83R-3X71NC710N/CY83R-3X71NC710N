@@ -81,6 +81,7 @@ ShadowStrike AthenaOS is my unique operating system showcasing all my skills and
 
 ShadowStrike not only contains a GNU/Linux Operating System but an entire guide and method for optimizing even the host environment (macOS). ShadowStrike Athena is an idea as much as an OS, this idea will adapt as my knowledge rapidly expands.
 
+I have plans to adapt quantumn computing technology to the OS when the hardware becomes available.
 
 # ꜱᴇᴀᴍʟᴇꜱꜱʟʏ ɪɴᴛᴇɢʀᴀᴛɪɴɢ:
 
