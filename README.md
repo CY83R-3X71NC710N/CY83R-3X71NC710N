@@ -121,7 +121,7 @@ Armed with stories of my leadership in the popular club and the critical 3D prin
 - **Digital Privacy, Anonymity, and Security Advisor**
 - **Web:** Frontend and Backend Knowledge, UI/UX.
 - **Strategic & Cognitive Architecture:** Expert Strategist, metacognition, productivity optimization (Niche of AI-assisted day management, Gamified Productivity, and using advanced configuration profiles as well as specialized tools [e.g., Apple Configurator, Cold Turkey, Opal]), additionally comprehensive research.
-- **Information & Data Management:** Strong foundation in Microsoft Office, Google Suite, mathematics, highschool physics (Recieved an A- Overall Both Semesters), Physical Education (Recieved an A's all three years of highschool and excelled in rollerskating, hockey, tennis, and volleyball units) digital archiving, US Government (as well as other countries), psychology, business, and effective personal finance management.
+- **Information & Data Management:** Strong foundation in Microsoft Office, Google Suite, mathematics, highschool physics (Recieved an A- Overall Both Semesters), Physical Education (Recieved an A's all three years of highschool and excelled in rollerskating, modified-hockey, tennis, and volleyball units) digital archiving, US Government (as well as other countries), psychology, business, and effective personal finance management.
 - **Feedly:** AI Threat Intelligence RSS News Feed Experience.
 - **Professional Social Communication** with English Language Focus (Know some French), and Academic Leadership Knowledge.
 
