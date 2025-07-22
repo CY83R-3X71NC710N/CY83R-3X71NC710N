@@ -73,7 +73,7 @@ Armed with stories of my leadership in the popular club and the critical 3D prin
 
 ---
 
-<h2 align="center">ĐɆVɆⱠØ₱ł₦₲ ₴Ⱨ₳ĐØ₩₴₮Ɽł₭Ɇ ₳₮ⱧɆ₦₳Ø₴ ɆĐł₮łØ₦</h2>
+<h2 align="center">ᴅᴇᴠᴇʟᴏᴘɪɴɢ ꜱʜᴀᴅᴏᴡꜱᴛʀɪᴋᴇ ᴀᴛʜᴇɴᴀᴏꜱ ᴇᴅɪᴛɪᴏɴ</h2>
 
 <ins>**ShadowStrike AthenaOS Edition**</ins> is a formidable operating system designed for serious cybersecurity professionals.
 
