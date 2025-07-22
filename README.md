@@ -81,7 +81,7 @@ ShadowStrike AthenaOS is my unique operating system showcasing all my skills and
 
 ShadowStrike not only contains a GNU/Linux Operating System but an entire guide and method for optimizing even the host environment (macOS). ShadowStrike Athena is an idea as much as an OS, this idea will adapt as my knowledge rapidly expands.
 
-I have plans to adapt quantum computing technology to the OS when the hardware becomes available.
+I have plans to adapt quantum computing technology to the OS when the hardware becomes available. When AGI becomes available the OS will adapt to aid the Artifical Intelligence Toolkit and Mentor Capabilites drastically. ASI will change the game significantly and I will eventually adapt the AI model to an ASI model.
 
 # ꜱᴇᴀᴍʟᴇꜱꜱʟʏ ɪɴᴛᴇɢʀᴀᴛɪɴɢ:
 
