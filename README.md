@@ -79,6 +79,8 @@ Armed with stories of my leadership in the popular club and the critical 3D prin
 
 ShadowStrike AthenaOS is my unique operating system showcasing all my skills and capabilities. This project will be my life's work and contain all my research and insights. This operating system will not be released to general public due to the competitive advantage.
 
+ShadowStrike not only contains a GNU/Linux Operating System but an entire guide and method for optimzing even the host environment (macOS)
+
 - The **inherent security** of **Fedora**
 - The **efficient tiling** capabilities of **Pop!_OS Cosmic**
 - **Optimized performance** built upon **AthenaOS’s** robust foundation
