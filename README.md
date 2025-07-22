@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-  <strong>At 17</strong>, with <strong>four years of relentless experience forged</strong> in Cybersecurity, I <strong>dominate Cyber Operations, AI-driven Penetration Testing, OSINT, AI/human exploitation, cross-platform OS development, and autonomous AI programming.</strong> 
+  <strong>At 17</strong>, with <strong>five years of relentless experience forged</strong> in Cybersecurity, I <strong>dominate Cyber Operations, AI-driven Penetration Testing, OSINT, AI/human exploitation, cross-platform OS development, and autonomous AI programming.</strong> 
 </p>
 
 **My status is validated by:**
