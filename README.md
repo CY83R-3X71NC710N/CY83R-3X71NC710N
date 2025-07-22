@@ -56,7 +56,7 @@
 - **Recognized by BigFuture** (Creator of AP Exams) Through the AP Scholar with Honors Award.
 - **Learning Passion**: My score of over **1 million points** on **Khan Academy** and various **Udemy** and **LinkedIn Learning** Certificates showcases my passion to learning.
 - **Federal Program Distinction:** Excelled in the **FBI TEAM Program** and recieved a personal mentor as well as many government, police department, fire department, and millitary contacts.
-
+- **Currently working unpaid internship at Maze3 © Studios as Chief Hacking Officer (Though due to the small-team size, I do not have to manage as much as a large-scale operation)
 ---
 
 <h2 align="center">˜”*°•.˜”*°• Origin Story •°*”˜.•°*”˜</h2>
