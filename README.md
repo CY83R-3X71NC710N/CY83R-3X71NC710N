@@ -98,6 +98,7 @@ ShadowStrike AthenaOS is my unique operating system showcasing all my skills and
 - **NIST Feed** for critical threat intelligence
 - **HTB Toolkit** for Practical Skill Development & Scenario Simulation
 - **Adaptive Role-Based Tooling Menus** for Efficient Operations
+- **Private Audio Enhancements**
 - **GHIDRA** (Official NSA Reverse Engineering Toolset) & **Even More**
 
 ---
