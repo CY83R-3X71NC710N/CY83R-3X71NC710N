@@ -87,7 +87,7 @@ The advent of Artificial Superintelligence (ASI) will fundamentally transform th
 
 The cybersecurity game will cease to be one of professional ethical hackers. Instead, it will be waged by a 'Jedi' AGI/ASI against a 'Sith' AGI/ASI, entities whose capabilities transcend all human comprehension and limitations. Humans will merely be those who have learned the machine's tongue, not those who speak it natively.
 
-In this transformed future, my mission will be to ensure the 'Jedi' operates correctly, is optimized, and is prompted with precision to defeat threats most people cannot even begin to grasp. The ultimate mission will no longer be to 'do,' but to 'guide' humanity towards its highest goals. This is the true evolution of cyberwarfare, the bleeding-edge of a constantly adapting threat, if the good AI does not have the edge, the tiny one and zero that makes it better than a malicious AI, then the malicious AI controlled by a malicious actor will win, which is a reality I cannot let happen.
+In this transformed future, my mission will be to ensure the 'Jedi' operates correctly, is optimized, and is prompted with precision to defeat threats most people cannot even begin to grasp. The ultimate mission will no longer be to 'do,' but to 'guide' humanity towards its highest goals. This is the true evolution of cyberwarfare, the bleeding-edge of a constantly adapting threat, if the good AI does not have the edge, the tiny one and zero that makes it better than a malicious AI, then the malicious AI controlled by a malicious actor will win, which is a reality I cannot let happen. When two Apex Predators fight only one can win.
 
 # ꜱᴇᴀᴍʟᴇꜱꜱʟʏ ɪɴᴛᴇɢʀᴀᴛɪɴɢ:
 
