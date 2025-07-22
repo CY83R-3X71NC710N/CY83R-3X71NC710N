@@ -121,7 +121,7 @@ Hearing that word was like someone had finally given a name to a language I'd be
 - **Digital Privacy, Anonymity, and Security Advisor**
 - **Web:** Frontend and Backend Knowledge, UI/UX.
 - **Strategic & Cognitive Architecture:** Expert Strategist, metacognition, productivity optimization (Niche of AI-assisted day management, Gamified Productivity, and using advanced configuration profiles as well as specialized tools [e.g., Apple Configurator, Cold Turkey, Opal]), additionally comprehensive research.
-- **Information & Data Management:** Strong foundation in Microsoft Office, Google Suite, mathematics, digital archiving, US Government (as well as other countries), psychology, business, and effective personal finance management.
+- **Information & Data Management:** Strong foundation in Microsoft Office, Google Suite, mathematics, highschool physics (Recieved an A- Overall Both Semesters), digital archiving, US Government (as well as other countries), psychology, business, and effective personal finance management.
 - **Feedly:** AI Threat Intelligence RSS News Feed Experience.
 - **Professional Social Communication** with English Language Focus (Know some French), and Academic Leadership Knowledge.
 
