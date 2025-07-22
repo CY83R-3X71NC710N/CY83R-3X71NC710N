@@ -77,6 +77,7 @@ Armed with stories of my leadership in the popular club and the critical 3D prin
 
 <ins>**ShadowStrike AthenaOS Edition**</ins> is a formidable operating system designed for serious cybersecurity professionals, seamlessly integrating:
 
+ShadowStrike AthenaOS is my unique operating system showcasing all my skills and capabilities.
 This operating system will not be released to general public due to the competitive advantage.
 
 - The **inherent security** of **Fedora**
