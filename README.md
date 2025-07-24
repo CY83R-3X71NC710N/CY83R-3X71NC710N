@@ -126,7 +126,6 @@ In this transformed future, my mission will be to ensure the 'Jedi' operates cor
 </p>
 
 ---
-
 # ᴋᴇʏ ᴇxᴘᴇʀᴛɪꜱᴇ
 - **Full-Stack & AI Engineering:** Autonomous development of advanced solutions, encompassing AI programming (Expert Github Copilot Automation Knowledge + Visual Studio Code Knowledge with Plugins and Theming) and versatile coding across diverse domains.
 - **Python-Language Focus:** Studied python in-depth.
@@ -141,7 +140,6 @@ In this transformed future, my mission will be to ensure the 'Jedi' operates cor
 - **Professional Social Communication** with English Language Focus (Know some French), and Academic Leadership Knowledge.
 
 ---
-
 ## 𝓓𝓲𝓿𝓮𝓻𝓼𝓮-𝓟𝓾𝓻𝓼𝓾𝓲𝓽𝓼
 - **Digital & Creative Arts:** Competitive Video Gamer (Usually RTS Games) & advanced gaming modding knowledge, Game Development Knowledge, DJing, guitar, music production, photography, photo editing, and AI Generative Arts & Imaging (including upscaling and compression).
 - **Physical & Mind Discipline:** Dedicated to martial arts, weightlifting, walking, biking, food, nutrition & cooking, mindfulness, personal care, and mastering personal fashion aesthetics.
