@@ -33,6 +33,14 @@
 </p>
 
 ---
+
+Contributions to Open-Source Projects:
+
+I contributed to SillyTavern Speech Recognition Extension: This is an AI toolkit for speaking directly to AI using your voice, I deployed a fix which mimics that of a heart-beat mechanism, where by constantly sending an audio listen request, it would fix their Web Speech API Implementation, this is currently in the process of being implemented in the main project and I have some technical fixes I need to work on to ensure that all users of the project won't have issues with this. SillyTavern is a AI tool with over 16.4k stars and 3.6k contributions: https://github.com/SillyTavern/Extension-Speech-Recognition/pull/19
+
+---
+
+---
 <p align="center">
   ◤✞ 𝕱𝖆𝖛𝖔𝖗𝖎𝖙𝖊 𝕾𝖔𝖓𝖌 - 𝓚𝓲𝓵𝓵𝓪 𓆩ƀɏ𓆪 𝓒𝓱𝓻𝓲𝓼 𝓐𝓿𝓪𝓷𝓽𝓰𝓪𝓻𝓭𝓮 & 𝓚𝓮𝓿𝓲𝓷 𝓭𝓮 𝓥𝓻𝓲𝓮𝓼 ✞◥
 </p>
