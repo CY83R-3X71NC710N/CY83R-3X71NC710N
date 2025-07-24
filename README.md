@@ -44,6 +44,8 @@ I contributed to the spotify_to_ytmusic repository by opening a pull request htt
 
 I contributed to swayfx, an open source tiling window manager fork of sway, which is built on the wayland compositor, this to me is the future of tiling window managers along with Pop!_OS Cosmic, I contributed by developing a fix to a problem that another issue discovered, that I then tested on my machine and identified the problem, to fix the issue I patched swayfx's flake.nix to fix the build by adding the wlroots_0_18 dependency while also consolidating inputs and improving the dev shell. swayfx is a project with 1.8k stars and 68 forks: https://github.com/WillPower3309/swayfx/pull/406
 
+I created two repositories specifically for helping others learn python programming and they have GitHub stars indicating that they are doing their job, I delibrately wrote the code in these repositories as simple as possible: These repos would be Weather-Dashboard-Updater (https://github.com/CY83R-3X71NC710N/Weather-Dashboard-Updater) & Quotes-Scraper (https://github.com/CY83R-3X71NC710N/Quote-Scraper)
+
 ---
 
 ---
