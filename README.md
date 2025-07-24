@@ -38,6 +38,9 @@ Contributions to Open-Source Projects:
 
 I contributed to SillyTavern Speech Recognition Extension: This is an AI toolkit for speaking directly to AI using your voice, I deployed a fix which mimics that of a heart-beat mechanism, where by constantly sending an audio listen request, it would fix their Web Speech API Implementation, this is currently in the process of being implemented in the main project and I have some technical fixes I need to work on to ensure that all users of the project won't have issues with this. SillyTavern is a AI tool with over 16.4k stars and 3.6k contributions: https://github.com/SillyTavern/Extension-Speech-Recognition/pull/19
 
+
+I contributed to swayfx, an open source tiling window manager fork of sway, which is built on the wayland compositor, this to me is the future of tiling window managers along with Pop!_OS Cosmic, I contributed by developing a fix to a problem that another issue discovered, that I then tested on my machine and identified the problem, to fix the issue I patched swayfx's flake.nix to fix the build by adding the wlroots_0_18 dependency while also consolidating inputs and improving the dev shell. swayfx is a project with 1.8k stars and 68 forks: https://github.com/WillPower3309/swayfx/pull/406
+
 ---
 
 ---
