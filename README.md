@@ -127,7 +127,7 @@ In this transformed future, my mission will be to ensure the 'Jedi' operates cor
 
 ---
 
-## ᴋᴇʏ ᴇxᴘᴇʀᴛɪꜱᴇ
+# ᴋᴇʏ ᴇxᴘᴇʀᴛɪꜱᴇ
 - **Full-Stack & AI Engineering:** Autonomous development of advanced solutions, encompassing AI programming (Expert Github Copilot Automation Knowledge + Visual Studio Code Knowledge with Plugins and Theming) and versatile coding across diverse domains.
 - **Python-Language Focus:** Studied python in-depth.
 - **Operating System Mastery:** Deep expertise in developing, hardening, and optimizing macOS, Windows, and GNU/Linux systems, including custom OS creation.
