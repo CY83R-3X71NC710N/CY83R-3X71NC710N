@@ -36,6 +36,8 @@
 
 Contributions to Open-Source Projects:
 
+I actively scan AthenaOS Development and look for ways to contribute to it and places that the developer needs help, this is a very important project to me due to my belief that the creator of the project is so visionary and groundbreaking within the Ethical Hacking Operating System Game.
+
 I contributed to SillyTavern Speech Recognition Extension: This is an AI toolkit for speaking directly to AI using your voice, I deployed a fix which mimics that of a heart-beat mechanism, where by constantly sending an audio listen request, it would fix their Web Speech API Implementation, this is currently in the process of being implemented in the main project and I have some technical fixes I need to work on to ensure that all users of the project won't have issues with this. SillyTavern is a AI tool with over 16.4k stars and 3.6k contributions: https://github.com/SillyTavern/Extension-Speech-Recognition/pull/19
 
 I contributed to the spotify_to_ytmusic repository by opening a pull request https://github.com/linsomniac/spotify_to_ytmusic/pull/117 which revived the unmaintained spotify_to_ytmusic project by fixing the core login error, adding connection stability features, writing an anti-ban guide, and integrating four major community bug fixes (#81, #99, #104, #109). The developer later came back however, I was ready to mantain this project on my own and had gathered a large number of users whom starred my fork at: https://github.com/CY83R-3X71NC710N/spotify_to_ytmusic
