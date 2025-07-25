@@ -3,6 +3,7 @@
 <p align="center">
   <strong>Cybersecurity Researcher & Developer</strong><br>
   <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em>
+  **Studying Bug Bounties and Zero-Day Research**
 </p>
 
 ---
