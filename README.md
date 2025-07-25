@@ -1,4 +1,4 @@
-<h1 align="center">CY83R-3X71NC710N</h1>
+d<h1 align="center">CY83R-3X71NC710N</h1>
 
 <p align="center">
   <strong>Cybersecurity Researcher & Developer</strong><br>
@@ -57,9 +57,10 @@ My fascination with technology began not with formal coursework, but with a fund
 
 ---
 
-|          Featured Projects          |
-|:-----------------------------------:|
-
+<p align="center">
+   |          Featured Projects          |
+   |:-----------------------------------:|
+</p>
 ---
 
 <p align="center">
