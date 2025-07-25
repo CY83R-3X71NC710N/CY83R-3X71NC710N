@@ -1,4 +1,4 @@
-<h1 align="center">Your Name (or CY83R-3X71NC710N)</h1>
+<h1 align="center">CY83R-3X71NC710N</h1>
 
 <p align="center">
   <strong>Cybersecurity Researcher & Developer</strong><br>
