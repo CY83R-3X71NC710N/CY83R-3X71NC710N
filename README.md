@@ -17,13 +17,45 @@ My fascination with technology began not with formal coursework, but with a fund
 
 ---
 
+### Experience
+
+**Chief Hacking Officer (Intern)** | **Maze3 Studios LLC** | *July 2025 – Present*
+* Guiding development teams in implementing security-first principles for new video game titles.
+* Researching and deploying robust security protections for game infrastructure and company websites.
+* Serving as the subject matter expert on offensive security and threat modeling for a small, agile team.
+
+---
+
 ### Key Achievements & Recognition
 
-* **NSA Codebreaker Challenge (2023-2024):** Placed #72 out of 450+ competing institutions. Competing solo, I surpassed hundreds of multi-person university teams, reaching Level 7 in just 10 days of the four-month national competition.
-* **GIAC Advisory Board Member:** Recognized as a top scorer on SANS certification exams, invited to join this elite community of security professionals.
-* **National Cyber Scholar with Honors (2022-2024):** Achieved maximum points in the Cyberstart America competition across all program years, consistently placing in the top 1% of tens of thousands of participants and earning $12,000 in scholarships.
-* **SANS Certifications:** GSEC (GIAC Security Essentials), GFACT (GIAC Foundational Cybersecurity Technologies).
-* **GitHub Developer Program Member:** Verified member of GitHub's professional developer community.
+* **NSA Codebreaker Challenge (2023-2024)**
+    * Placed #72 out of 450+ competing institutions, competing solo against multi-person university teams to finish in the top 16% nationally.
+    * Reached Level 7 of the national challenge within the first 10 days of the four-month competition, securing the #1 rank on the institutional leaderboard.
+    * Pioneered the high school's first-ever participation in the collegiate-level program through direct outreach and approval from the NSA.
+
+* **Cyberstart America National Competition (2022–2024)**
+    * Recognized as a **National Cyber Scholar with Honors** for three consecutive years.
+    * Consistently placed in the **top 1% of tens of thousands of participants** by achieving the maximum possible points across all program years.
+    * Earned **$12,000 in scholarships** for exceptional performance.
+
+* **GIAC Advisory Board**
+    * Invited to join this elite guidance community as a recognized top scorer on SANS/GIAC certification exams.
+
+* **FBI Teen/Youth Engagement and Mentorship (TEAM) Program**
+    * Selected for the competitive federal program, receiving mentorship from Bureau personnel.
+
+---
+
+### Education & Certifications
+
+* **Certifications:**
+    * GIAC Security Essentials (GSEC)
+    * GIAC Foundational Cybersecurity Technologies (GFACT)
+
+* **Academic Honors & Awards:**
+    * AP Scholar
+    * Recognized as one of the only dual-award recipients (Business & Computer Science) in a graduating class of ~1,000 students.
+    * Verified Member of the GitHub Developer Program.
 
 ---
 
@@ -50,13 +82,13 @@ A custom, security-focused Linux distribution engineered for penetration testing
 
 ---
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://hacked-github-stat-trophies.vercel.app/?username=cy83r-3x71nc710n&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy">
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://hacked-github-stat-trophies.vercel.app/?username=cy83r-3x71nc710n&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=CY83R-3X71NC710N&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats">
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=CY83R-3X71NC710N&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats">
+  </a>
 </p>
