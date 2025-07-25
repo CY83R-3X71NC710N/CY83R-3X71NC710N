@@ -1,9 +1,9 @@
 <h1 align="center">CY83R-3X71NC710N</h1>
 
 <p align="center">
-  <strong>Cybersecurity Researcher & Developer</strong><br>
-  <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em>
-  ***Planning to excel in: Penetration Testing, Bug Bounty Hunting, and Zero-Day Research***
+  <strong>Cybersecurity Researcher & Developer</strong><br>
+  <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em><br>
+  <strong><em>Planning to excel in: Penetration Testing, Bug Bounty Hunting, and Zero-Day Research</em></strong>
 </p>
 
 ---
