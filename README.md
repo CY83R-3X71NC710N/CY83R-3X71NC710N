@@ -53,7 +53,7 @@ My fascination with technology began not with formal coursework, but with a fund
     * GIAC Foundational Cybersecurity Technologies (GFACT)
 
 * **Academic Honors & Awards:**
-    * AP Scholar
+    * AP Scholar with Honors
     * Recognized as one of the only dual-award recipients (Business & Computer Science) in a graduating class of ~1,000 students.
     * Verified Member of the GitHub Developer Program.
 
