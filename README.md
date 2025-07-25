@@ -5,10 +5,6 @@
   <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/CY83R-3X71NC710N">GitHub</a>
-</p>
-
 ---
 
 ### About Me
