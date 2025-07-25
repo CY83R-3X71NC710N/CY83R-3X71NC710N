@@ -80,7 +80,7 @@ A custom, security-focused Linux distribution engineered for penetration testing
 
 * **Development:** Python (Advanced), C, Nix, Bash, Web Development (Frontend/Backend, UI/UX), AI/ML Tooling (LLM Integration, API Automation), Git, CI/CD.
 
-* **Systems & Infrastructure:** Linux/Windows/macOS Internals, Custom OS Development, Cloud Security, Virtualization (QEMU, UTM), Docker, Networking (VPNs, OpSec).
+* **Systems & Infrastructure:** Linux/Windows/macOS Internals, Custom OS Development, Cloud Security, Virtualization (VMware, Parallels, QEMU, UTM), Docker, Networking (VPNs, OpSec).
 
 ---
 <p align="center">
