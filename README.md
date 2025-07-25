@@ -59,9 +59,10 @@ My fascination with technology began not with formal coursework, but with a fund
 
 <p align="center">
 
-   ### Featured Projects
+### Featured Projects
 
 </p>
+
 ---
 
 <p align="center">
