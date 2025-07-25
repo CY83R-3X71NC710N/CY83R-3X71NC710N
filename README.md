@@ -81,6 +81,32 @@ A custom, security-focused Linux distribution engineered for penetration testing
 * **Key Features:** Role-based tooling menus, ARM64 virtualization support, integrated Wireguard configurations, and a custom AI-powered assistant for automating research tasks.
 * **Future Roadmap:** Researching the integration of post-quantum cryptography standards and developing more sophisticated adversarial AI threat modeling tools.
 
+
+#### **Eclipse Shield - AI-Powered Productivity Analyzer with Enterprise Security** - [View Repository](https://github.com/CY83R-3X71NC710N/Eclipse-Shield)
+An intelligent productivity management system that uses AI to analyze user browsing patterns and block unproductive websites based on contextual task understanding. The application features a web-based backend that communicates with browser extensions to provide real-time productivity insights and adaptive website filtering.
+
+**Core Functionality:**
+* **AI Task Analysis:** Google Gemini integration that asks contextual questions to understand user goals and current work focus
+* **Intelligent Website Blocking:** Dynamic filtering system that blocks distracting sites based on current task context rather than static blacklists
+* **Browser Extension Integration:** Cross-platform extensions (Chrome/Opera) that communicate securely with the backend for real-time blocking decisions
+* **Adaptive Learning:** System learns user productivity patterns and adjusts blocking behavior accordingly
+* **Domain-Specific Profiles:** Configurable productivity profiles for different work contexts (development, research, writing, etc.)
+
+**Enterprise Security Implementation:** Applied comprehensive OWASP Top 10 security measures to demonstrate production-grade security engineering:
+* **Multi-layered Defense:** UFW firewall → Fail2ban intrusion detection → Nginx reverse proxy → Gunicorn WSGI → Flask security middleware
+* **Complete OWASP Compliance:** All 2021 OWASP Top 10 vulnerabilities addressed including injection prevention, access control, and cryptographic security
+* **Advanced Rate Limiting:** Redis-backed IP throttling preventing DDoS and API abuse
+* **Input Validation Engine:** Comprehensive sanitization preventing XSS, SQL injection, and prompt injection attacks
+* **API Security Framework:** CSRF tokens, secure authentication, and request signing for browser extension communication
+
+**Technical Architecture:**
+* **Backend:** Flask with custom security middleware, thread-safe caching, structured security logging
+* **AI Integration:** Secure Google Gemini API integration with prompt injection prevention and response validation
+* **Browser Extensions:** Secure message passing between web pages and backend API with authentication
+* **DevOps:** Docker containerization, automated security-hardened deployment, real-time monitoring
+
+**Security Testing Suite:** 50+ automated security tests covering authentication bypass, injection attacks, rate limiting, and cross-site scripting prevention.
+
 #### **Open Source Contributions**
 * **[spotify_to_ytmusic](https://github.com/CY83R-3X71NC710N/spotify_to_ytmusic):** Revived an unmaintained project by patching the core authentication error, implementing connection stability features, and integrating four major community bug fixes. My fork became the de facto version for the community during the original author's absence. ([View PR #117](https://github.com/linsomniac/spotify_to_ytmusic/pull/117))
 * **[swayfx](https://github.com/WillPower3309/swayfx/pull/406):** Patched a critical build failure in the Wayland compositor fork by updating its Nix flake dependencies, improving the development shell for all contributors.
