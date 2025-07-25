@@ -19,10 +19,10 @@ My fascination with technology began not with formal coursework, but with a fund
 
 ### Experience
 
-**Chief Hacking Officer (Intern)** | **Maze3 Studios LLC** | *July 2025 – Present*
-* Guiding development teams in implementing security-first principles for new video game titles.
-* Researching and deploying robust security protections for game infrastructure and company websites.
-* Serving as the subject matter expert on offensive security and threat modeling for a small, agile team.
+**Founding Security Engineer (Intern)** | **Maze3 Studios LLC** | *July 2025 – Present*
+* Building the company's security program from the ground up for a new game development studio.
+* Solely responsible for all offensive and defensive security research, planning, and implementation.
+* Advising the co-founders on secure coding practices, infrastructure hardening, and risk management.
 
 ---
 
