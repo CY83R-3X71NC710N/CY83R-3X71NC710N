@@ -81,6 +81,9 @@ A custom, security-focused Linux distribution engineered for penetration testing
 * **Key Features:** Role-based tooling menus, ARM64 virtualization support, integrated Wireguard configurations, and a custom AI-powered assistant for automating research tasks.
 * **Future Roadmap:** Researching the integration of post-quantum cryptography standards and developing more sophisticated adversarial AI threat modeling tools.
 
+---
+
+---
 
 #### **Eclipse Shield - AI-Powered Productivity Analyzer with Enterprise Security** - [View Repository](https://github.com/CY83R-3X71NC710N/Eclipse-Shield)
 An intelligent productivity management system that uses AI to analyze user browsing patterns and block unproductive websites based on contextual task understanding. The application features a web-based backend that communicates with browser extensions to provide real-time productivity insights and adaptive website filtering.
@@ -106,6 +109,8 @@ An intelligent productivity management system that uses AI to analyze user brows
 * **DevOps:** Docker containerization, automated security-hardened deployment, real-time monitoring
 
 **Security Testing Suite:** 50+ automated security tests covering authentication bypass, injection attacks, rate limiting, and cross-site scripting prevention.
+
+---
 
 #### **Open Source Contributions**
 * **[spotify_to_ytmusic](https://github.com/CY83R-3X71NC710N/spotify_to_ytmusic):** Revived an unmaintained project by patching the core authentication error, implementing connection stability features, and integrating four major community bug fixes. My fork became the de facto version for the community during the original author's absence. ([View PR #117](https://github.com/linsomniac/spotify_to_ytmusic/pull/117))
