@@ -4,6 +4,7 @@
   <strong>Cybersecurity Researcher & Developer</strong><br>
   <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em><br>
   <strong><em>Actively Studying: Penetration Testing, Bug Bounty Hunting, and Zero-Day Research</em></strong>
+  <strong>My dream is to be the pinnacle of Cybersecurity Practitioner and be Commander and Founder of my own Digital Task Force similar in rigor to that of a Tier 1 Elite Special Forces Missions Unit like Delta Force</strong>
 </p>
 
 ---
