@@ -19,7 +19,7 @@ My fascination with technology began not with formal coursework, but with a fund
 
 ### Key Achievements & Recognition
 
-* **NSA Codebreaker Challenge (2023-2024):** Placed #72 out of 450+ competing institutions. Competing solo, I surpassed hundreds of multi-person university teams, achieving Level 7 in just 10 days of the four-month national competition.
+* **NSA Codebreaker Challenge (2023-2024):** Placed #72 out of 450+ competing institutions. Competing solo, I surpassed hundreds of multi-person university teams, reaching Level 7 in just 10 days of the four-month national competition.
 * **GIAC Advisory Board Member:** Recognized as a top scorer on SANS certification exams, invited to join this elite community of security professionals.
 * **National Cyber Scholar with Honors (2022-2024):** Achieved maximum points in the Cyberstart America competition across all program years, consistently placing in the top 1% of tens of thousands of participants and earning $12,000 in scholarships.
 * **SANS Certifications:** GSEC (GIAC Security Essentials), GFACT (GIAC Foundational Cybersecurity Technologies).
