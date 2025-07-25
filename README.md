@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Cybersecurity Researcher & Developer</strong><br>
   <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em><br>
-  <strong><em>Planning to excel in: Penetration Testing, Bug Bounty Hunting, and Zero-Day Research</em></strong>
+  <strong><em>Actively Studying: Penetration Testing, Bug Bounty Hunting, and Zero-Day Research</em></strong>
 </p>
 
 ---
