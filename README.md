@@ -81,7 +81,7 @@ My fascination with technology began not with formal coursework, but with a fund
 
 #### **ShadowStrike OS - [Private Repository]**
 A custom, security-focused Linux distribution engineered for penetration testing and security research. This project is my primary development testbed for integrating novel security tools and system hardening techniques.
-* **Architecture:** Built on a hardened Fedora base, integrating the Pop!_OS tiling window manager (COSMIC), and leveraging a Blackarch Docker container for an expanded toolset. The operating system also is a AthenaOS fork which means all the benefits of AthenaOS which I actively follow due to the visionary design of the OS are included in the project, above is a link to ShadowStrike and AthenaOS if you are curious.
+* **Architecture:** Built on a hardened Fedora base, integrating the Pop!_OS tiling window manager (COSMIC), and leveraging a Blackarch Docker container for an expanded toolset. The operating system also is a AthenaOS fork which means all the benefits of AthenaOS which I actively follow due to the visionary design of the OS are included in the project, above is a link to ShadowStrike and AthenaOS if you are curious. I did not make AthenaOS, I made ShadowStrike OS, which is a modified version of AthenaOS, though I like the AthenaOS project so much I like to advertise for it.
 * **Key Features:** Role-based tooling menus, ARM64 virtualization support, integrated Wireguard configurations, and a custom AI-powered assistant for automating research tasks.
 * **Future Roadmap:** Researching the integration of post-quantum cryptography standards and developing more sophisticated adversarial AI threat modeling tools.
 
