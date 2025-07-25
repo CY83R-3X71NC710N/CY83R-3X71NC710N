@@ -76,9 +76,11 @@ A custom, security-focused Linux distribution engineered for penetration testing
 
 ### Key Expertise
 
-* **Cybersecurity:** Offensive Security (Red Teaming), Penetration Testing, OSINT, Reverse Engineering (Ghidra), System Hardening, Digital Forensics.
-* **Development:** Python (Advanced), C, Nix, Bash, AI/ML Tooling (LLM Integration, API Automation), Git, CI/CD.
-* **Systems & Infrastructure:** Linux/Windows/macOS Internals, Custom OS Development, Virtualization (QEMU, UTM), Docker, Networking (VPNs, OpSec).
+* **Cybersecurity:** Offensive Security (Red Teaming), Penetration Testing, Social Engineering, API Security, OSINT, Reverse Engineering (Ghidra), System Hardening, Digital Forensics.
+
+* **Development:** Python (Advanced), C, Nix, Bash, Web Development (Frontend/Backend, UI/UX), AI/ML Tooling (LLM Integration, API Automation), Git, CI/CD.
+
+* **Systems & Infrastructure:** Linux/Windows/macOS Internals, Custom OS Development, Cloud Security, Virtualization (QEMU, UTM), Docker, Networking (VPNs, OpSec).
 
 ---
 <p align="center">
