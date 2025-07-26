@@ -83,6 +83,12 @@ A custom, security-focused Linux distribution engineered for penetration testing
 
 ---
 
+<p align="center">
+  <a href="https://github.com/CY83R-3X71NC710N/Eclipse-Shield" target="_blank" rel="noopener noreferrer">
+    <img src="EclipseShield.png" alt="ShadowStrike Logo" width="150">
+  </a>
+</p>
+
 ---
 
 #### **Eclipse Shield - AI-Powered Productivity Analyzer with Enterprise Security** - [View Repository](https://github.com/CY83R-3X71NC710N/Eclipse-Shield)
