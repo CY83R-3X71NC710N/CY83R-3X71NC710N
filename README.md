@@ -4,7 +4,8 @@
 <h1 align="center">CY83R-3X71NC710N</h1>
 
 <p align="center">
-  <strong>Cybersecurity Researcher & Developer | Builder & Breaker</strong><br>
+  <strong>Cybersecurity Researcher & Developer</strong><br>
+  Purple: Builder & Breaker<br>
   <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em><br>
   <em>Actively Studying: Penetration Testing, Bug Bounty Hunting, and Zero-Day Research</em><br>
   <strong><em>Trajectory: Tier 1 Exploit Development at the level of NSA's TAO and Google's Project Zero</em></strong>
