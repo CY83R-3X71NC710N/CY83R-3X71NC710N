@@ -14,7 +14,7 @@
 
 ### About Me
 
-My fascination with technology began not with formal coursework, but with a fundamental curiosity about how systems work. This passion, which I've pursued since the age of 12, led me to cybersecurity. I have now spent five years deeply immersed in systems engineering, offensive security tradecraft, and autonomous tool development. My focus is on building robust, security-first solutions and pushing the boundaries of what's possible at the intersection of AI and systems security. I am driven by taking on complex challenges and engineering effective, elegant solutions. I believe it is important to have both sides of the force which is why I study defense and offense in detail, I build and I break, I operate all things cybersecurity with a purple shade.
+My fascination with technology began not with formal coursework, but with a fundamental curiosity about how systems work. This passion, which I've pursued since the age of 12, led me to cybersecurity. I have now spent five years deeply immersed in systems engineering, offensive security tradecraft, and autonomous tool development. My focus is on building robust, security-first solutions and pushing the boundaries of what's possible at the intersection of AI and systems security. I am driven by taking on complex challenges and engineering effective, elegant solutions. I believe in mastering both sides of security, I build and I break, operating with a purpleteam approach in everything I do.
 
 ---
 
