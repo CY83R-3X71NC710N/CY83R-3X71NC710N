@@ -6,7 +6,7 @@
 <p align="center">
   <strong>Cybersecurity Researcher & Developer</strong><br>
   <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em><br>
-  <strong>Purple-Shade</strong> Cybersecurity: Builder & Breaker<br>
+  <strong>Purple-Shade</strong>: Builder & Breaker<br>
   <em>Actively Studying: Penetration Testing, Bug Bounty Hunting, and Zero-Day Research</em><br>
   <strong><em>Trajectory: Tier 1 Exploit Development at the level of NSA's TAO and Google's Project Zero</em></strong>
 </p>
