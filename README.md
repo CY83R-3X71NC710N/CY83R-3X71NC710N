@@ -85,7 +85,7 @@ A custom, security-focused Linux distribution engineered for penetration testing
 
 <p align="center">
   <a href="https://github.com/CY83R-3X71NC710N/Eclipse-Shield" target="_blank" rel="noopener noreferrer">
-    <img src="EclipseShield.png" alt="Eclipse Shield Logo" width="250">
+    <img src="EclipseShield.png" alt="Eclipse Shield Logo" width="150">
   </a>
 </p>
 
