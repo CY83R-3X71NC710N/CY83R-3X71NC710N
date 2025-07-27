@@ -118,6 +118,14 @@ An intelligent productivity management system that uses AI to analyze user brows
 
 ---
 
+<p align="center">
+  <a href="https://github.com/CY83R-3X71NC710N/Event_Zero" target="_blank" rel="noopener noreferrer">
+    <img src="Event_Zero.png" alt="Event_Zero Logo" width="250">
+  </a>
+</p>
+
+---
+
 #### **Open Source Contributions**
 * **[spotify_to_ytmusic](https://github.com/CY83R-3X71NC710N/spotify_to_ytmusic):** Revived an unmaintained project by patching the core authentication error, implementing connection stability features, and integrating four major community bug fixes. My fork became the de facto version for the community during the original author's absence. ([View PR #117](https://github.com/linsomniac/spotify_to_ytmusic/pull/117))
 * **[swayfx](https://github.com/WillPower3309/swayfx/pull/406):** Patched a critical build failure in the Wayland compositor fork by updating its Nix flake dependencies, improving the development shell for all contributors.
