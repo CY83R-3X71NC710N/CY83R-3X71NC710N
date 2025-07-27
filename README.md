@@ -132,7 +132,7 @@ An advanced, AI-driven security architecture designed for the autonomous deconst
 This is not a sandbox. It is a black site for malware.
 
 **Core Architecture & Philosophy:**
-The system is built on the principle of **offensive analysis**—proactively dismantling a threat with an arsenal of tools rather than passively observing it. It gives a Tier 1 generative AI complete autonomy within a hardened BlackArch Linux container, creating an adaptive predator that hunts, isolates, and dissects malware with zero human intervention.
+The system is built on the principle of **offensive analysis** that is: proactively dismantling a threat with an arsenal of tools rather than passively observing it. It gives a Tier 1 generative AI complete autonomy within a hardened BlackArch Linux container, creating an adaptive predator that hunts, isolates, and dissects malware with zero human intervention.
 
 *   **Autonomous Decision Core:** A Google Gemini-powered reasoning engine with full authority to install any of BlackArch's 2800+ tools, write custom analysis scripts, and define its own success criteria. The mission ends only when the AI declares 100% behavioral mapping is complete.
 *   **Adaptive Analysis Engine:** The system's strategy evolves in real-time. If initial static analysis reveals a packed binary, the AI will autonomously install and utilize unpacking tools. If network C2 traffic is detected, it will pivot to dynamic network interception and protocol analysis.
