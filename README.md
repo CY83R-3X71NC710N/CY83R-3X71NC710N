@@ -126,7 +126,7 @@ An intelligent productivity management system that uses AI to analyze user brows
 
 ---
 
-#### **Event_Zero – Autonomous Malware Annihilation Engine - [Private Repository]**
+#### **Event_Zero – Autonomous Malware Annihilation Engine - [View Repository](https://github.com/CY83R-3X71NC710N/Event_Zero**
 An advanced, AI-driven security architecture designed for the autonomous deconstruction and complete behavioral mapping of malicious code. This system represents a paradigm shift from traditional sandboxing to an intelligent, self-healing analysis engine that operates until 100% of a threat's functionality is understood and neutralized.
 
 This is not a sandbox. It is a black site for malware.
