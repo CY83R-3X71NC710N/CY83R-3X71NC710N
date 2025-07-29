@@ -172,3 +172,9 @@ The system is built on the principle of **offensive analysis** that is: proactiv
     <img src="https://github-readme-stats.vercel.app/api?username=CY83R-3X71NC710N&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://profile.codersrank.io/user/CY83R-3X71NC710N">
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=CY83R-3X71NC710N&branding=false" width="400"/>
+  </a>
+</p>
