@@ -175,6 +175,6 @@ The system is built on the principle of **offensive analysis** that is: proactiv
 
 <p align="center">
   <a href="https://profile.codersrank.io/user/CY83R-3X71NC710N">
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=CY83R-3X71NC710N&branding=false" width="400"/>
+    <img src="https://widgets.codersrank.io/v2/summary/CY83R-3X71NC710N.svg" alt="CY83R-3X71NC710N's CodersRank summary" width="400"/>
   </a>
 </p>
