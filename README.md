@@ -176,6 +176,6 @@ The system is built on the principle of **offensive analysis** that is: proactiv
 <p align="center">
    <strong>Top 1% Coders USA (Specializing in Python & Shell)</strong><br>
      <a href="https://profile.codersrank.io/user/CY83R-3X71NC710N">
-       <img src="./CodersRank.png" alt="CY83R-3X71NC710N's CodersRank summary" width="400"/>
+       <img src="./CodersRank.png" alt="CY83R-3X71NC710N's CodersRank summary" width="500"/>
      </a>
 </p>
