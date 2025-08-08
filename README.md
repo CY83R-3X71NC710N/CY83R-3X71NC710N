@@ -179,3 +179,15 @@ The system is built on the principle of **offensive analysis** that is: proactiv
        <img src="./CodersRank.png" alt="CY83R-3X71NC710N's CodersRank summary" width="500"/>
      </a>
 </p>
+
+---
+
+### Hobbies
+
+* **DJ**: I thrive on the creative challenge of DJing, blending and reimagining music to forge new soundscapes. I am dedicated to mastering this craft with the same focus and excellence I apply to the field of cybersecurity.
+* **Music Production**: I produce music using a cutting-edge, AI-driven workflow, creating original tracks that I then integrate into my DJ mixes.
+* **Guitar**: I am an avid guitar player. I choose not to record my sessions, as I believe the true value of an instrument is found in the ephemeral joy of playing it live.
+* **Martial Arts**: I aspire to master the discipline of martial arts, and I have set the dedicated goal for myself to one day earn a Black Belt in Krav Maga.
+* **Firearms**: I am pursuing advanced firearms training to cultivate the discipline and skill required for effective personal protection in high-stakes situations.
+* **Fitness**: Fitness is one of my hobbies and this includes weight-lifting and cardio training.
+* **Biking**: Biking is my favorite way to immerse myself in nature; I find the experience incredibly peaceful and rejuvenating.
