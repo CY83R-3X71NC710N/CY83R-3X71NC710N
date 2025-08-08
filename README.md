@@ -182,7 +182,11 @@ The system is built on the principle of **offensive analysis** that is: proactiv
 
 ---
 
-### Hobbies
+<p align="center">
+   <h1>Hobbies</h1>
+</p>
+
+---
 
 * **DJ**: I thrive on the creative challenge of DJing, blending and reimagining music to forge new soundscapes. I am dedicated to mastering this craft with the same focus and excellence I apply to the field of cybersecurity.
 * **Music Production**: I produce music using a cutting-edge, AI-driven workflow, creating original tracks that I then integrate into my DJ mixes.
@@ -191,3 +195,5 @@ The system is built on the principle of **offensive analysis** that is: proactiv
 * **Firearms**: I am pursuing advanced firearms training to cultivate the discipline and skill required for effective personal protection in high-stakes situations.
 * **Fitness**: Fitness is one of my hobbies and this includes weight-lifting and cardio training.
 * **Biking**: Biking is my favorite way to immerse myself in nature; I find the experience incredibly peaceful and rejuvenating.
+
+---
