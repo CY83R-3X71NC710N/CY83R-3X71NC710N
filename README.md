@@ -182,9 +182,11 @@ The system is built on the principle of **offensive analysis** that is: proactiv
 
 ---
 
+
 <p align="center">
    <h1>Hobbies</h1>
 </p>
+
 
 ---
 
