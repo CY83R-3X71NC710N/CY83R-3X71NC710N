@@ -198,6 +198,6 @@ The system is built on the principle of **offensive analysis** that is: proactiv
 * **Fitness**: Fitness is one of my hobbies and this includes weight-lifting and cardio training.
 * **Biking**: Biking is my favorite way to immerse myself in nature; I find the experience incredibly peaceful and rejuvenating.
 * **Driving:** My passion for automobiles extends to a fascination with defensive driving techniques and a preference for the aesthetics of performance cars, especially those with a full-black, tinted appearance.
-* **Collecting:** I appreciate the timeless design and craftsmanship of classic watches, black sunglasses, full-black tailored suits, and I aspire to build a personal collection of them.
+* **Collecting:** I appreciate the timeless design and craftsmanship of classic watches, sunglasses, full-black tailored suits, and I aspire to build a personal collection of them.
 
 ---
